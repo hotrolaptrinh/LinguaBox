@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 110 - Retail Merchandising",
+  "words": [
+    {
+      "word": "planogram",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈplænəɡræm/",
+      "meaning": "sơ đồ trưng bày"
+    },
+    {
+      "word": "category management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkætəɡəri ˈmænɪdʒmənt/",
+      "meaning": "quản lý danh mục"
+    },
+    {
+      "word": "sell-through rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sel θruː reɪt/",
+      "meaning": "tỷ lệ bán hết"
+    },
+    {
+      "word": "visual merchandising",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvɪʒuəl ˈmɜːtʃəndaɪzɪŋ/",
+      "meaning": "trưng bày trực quan"
+    },
+    {
+      "word": "endcap display",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈendkæp dɪsˈpleɪ/",
+      "meaning": "kệ trưng bày đầu dãy"
+    },
+    {
+      "word": "feature table",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə ˈteɪbl/",
+      "meaning": "bàn trưng bày nổi bật"
+    },
+    {
+      "word": "product facing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈfeɪsɪŋ/",
+      "meaning": "mặt hàng hướng ra ngoài"
+    },
+    {
+      "word": "inventory turn",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri tɜːn/",
+      "meaning": "vòng quay tồn kho"
+    },
+    {
+      "word": "stock keeping unit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/stɒk ˈkiːpɪŋ ˈjuːnɪt/",
+      "meaning": "đơn vị lưu kho"
+    },
+    {
+      "word": "fixture layout",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfɪkstʃə ˈleɪaʊt/",
+      "meaning": "bố trí giá kệ"
+    },
+    {
+      "word": "point-of-sale display",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔɪnt əv seɪl dɪsˈpleɪ/",
+      "meaning": "trưng bày tại quầy"
+    },
+    {
+      "word": "price signage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/praɪs ˈsaɪnɪdʒ/",
+      "meaning": "bảng giá"
+    },
+    {
+      "word": "merchandising calendar",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɜːtʃəndaɪzɪŋ ˈkælɪndə/",
+      "meaning": "lịch trưng bày"
+    },
+    {
+      "word": "product adjacencies",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt əˈdʒeɪsənsiːz/",
+      "meaning": "sắp xếp sản phẩm liên quan"
+    },
+    {
+      "word": "merchandising reset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɜːtʃəndaɪzɪŋ ˈriːset/",
+      "meaning": "tái bố trí trưng bày"
+    },
+    {
+      "word": "traffic pattern",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtræfɪk ˈpætən/",
+      "meaning": "lưu tuyến khách hàng"
+    },
+    {
+      "word": "conversion driver",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːʃən ˈdraɪvə/",
+      "meaning": "yếu tố thúc đẩy chuyển đổi"
+    },
+    {
+      "word": "assortment planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈsɔːtmənt ˈplænɪŋ/",
+      "meaning": "hoạch định danh mục"
+    },
+    {
+      "word": "markdown strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkdaʊn ˈstrætədʒi/",
+      "meaning": "chiến lược giảm giá"
+    },
+    {
+      "word": "seasonal capsule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsiːzənl ˈkæpsjuːl/",
+      "meaning": "bộ sưu tập theo mùa"
+    },
+    {
+      "word": "cross-merchandising",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/krɒs ˈmɜːtʃəndaɪzɪŋ/",
+      "meaning": "trưng bày chéo"
+    },
+    {
+      "word": "planogram compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈplænəɡræm kəmˈplaɪəns/",
+      "meaning": "tuân thủ sơ đồ trưng bày"
+    },
+    {
+      "word": "retail execution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈriːteɪl ˌeksɪˈkjuːʃən/",
+      "meaning": "thực thi bán lẻ"
+    },
+    {
+      "word": "shrink control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ʃrɪŋk kənˈtrəʊl/",
+      "meaning": "kiểm soát hao hụt"
+    },
+    {
+      "word": "impulse display",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪmpʌls dɪsˈpleɪ/",
+      "meaning": "trưng bày kích thích mua"
+    }
+  ]
+}

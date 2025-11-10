@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 73 - Pharmaceutical Operations",
+  "words": [
+    {
+      "word": "active pharmaceutical ingredient",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈæktɪv ˌfɑːməˈsuːtɪkl ɪnˈɡriːdiənt/",
+      "meaning": "hoạt chất dược"
+    },
+    {
+      "word": "formulation development",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌfɔːmjuˈleɪʃn dɪˈveləpmənt/",
+      "meaning": "phát triển công thức"
+    },
+    {
+      "word": "good manufacturing practice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡʊd ˌmænjʊˈfæktʃərɪŋ ˈpræktɪs/",
+      "meaning": "thực hành sản xuất tốt"
+    },
+    {
+      "word": "batch record",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bætʃ ˈrekɔːd/",
+      "meaning": "hồ sơ lô"
+    },
+    {
+      "word": "quality assurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti əˈʃʊərəns/",
+      "meaning": "đảm bảo chất lượng"
+    },
+    {
+      "word": "stability testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/stəˈbɪləti ˈtestɪŋ/",
+      "meaning": "kiểm tra độ ổn định"
+    },
+    {
+      "word": "clinical trial",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈtraɪəl/",
+      "meaning": "thử nghiệm lâm sàng"
+    },
+    {
+      "word": "regulatory submission",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjʊlətəri səbˈmɪʃn/",
+      "meaning": "hồ sơ nộp cơ quan quản lý"
+    },
+    {
+      "word": "pharmacovigilance",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌfɑːməkəʊˈvɪdʒɪləns/",
+      "meaning": "giám sát an toàn thuốc"
+    },
+    {
+      "word": "adverse event",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædvɜːs ɪˈvent/",
+      "meaning": "biến cố bất lợi"
+    },
+    {
+      "word": "dosage form",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdəʊsɪdʒ fɔːm/",
+      "meaning": "dạng bào chế"
+    },
+    {
+      "word": "cold chain logistics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəʊld tʃeɪn ləˈdʒɪstɪks/",
+      "meaning": "chuỗi lạnh"
+    },
+    {
+      "word": "compounding pharmacy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈpaʊndɪŋ ˈfɑːməsi/",
+      "meaning": "nhà thuốc pha chế"
+    },
+    {
+      "word": "bioreactor vessel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌbaɪəʊriˈæktə ˈvesl/",
+      "meaning": "bình phản ứng sinh học"
+    },
+    {
+      "word": "sterile filtration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteraɪl fɪlˈtreɪʃn/",
+      "meaning": "lọc vô trùng"
+    },
+    {
+      "word": "validation protocol",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvælɪˈdeɪʃn ˈprəʊtəkɒl/",
+      "meaning": "quy trình thẩm định"
+    },
+    {
+      "word": "standard operating procedure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstændəd ˈɒpəreɪtɪŋ prəˈsiːdʒə/",
+      "meaning": "quy trình vận hành chuẩn"
+    },
+    {
+      "word": "potency assay",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpəʊtənsi ˈæseɪ/",
+      "meaning": "thử nghiệm hiệu lực"
+    },
+    {
+      "word": "contamination control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˌtæmɪˈneɪʃn kənˈtrəʊl/",
+      "meaning": "kiểm soát nhiễm"
+    },
+    {
+      "word": "calibration schedule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkælɪˈbreɪʃn ˈskedʒuːl/",
+      "meaning": "lịch hiệu chuẩn"
+    },
+    {
+      "word": "labeling compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈleɪbəlɪŋ kəmˈplaɪəns/",
+      "meaning": "tuân thủ ghi nhãn"
+    },
+    {
+      "word": "packaging line",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpækɪdʒɪŋ laɪn/",
+      "meaning": "dây chuyền đóng gói"
+    },
+    {
+      "word": "serialization code",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌsɪəriəlaɪˈzeɪʃn kəʊd/",
+      "meaning": "mã hóa chuỗi"
+    },
+    {
+      "word": "therapeutic indication",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌθerəˈpjuːtɪk ˌɪndɪˈkeɪʃn/",
+      "meaning": "chỉ định điều trị"
+    },
+    {
+      "word": "patient safety",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt ˈseɪfti/",
+      "meaning": "an toàn bệnh nhân"
+    }
+  ]
+}

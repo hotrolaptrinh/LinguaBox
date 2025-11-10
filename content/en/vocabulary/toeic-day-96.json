@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 96 - Global Logistics",
+  "words": [
+    {
+      "word": "freight forwarding",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/freɪt ˈfɔːwədɪŋ/",
+      "meaning": "giao nhận vận tải"
+    },
+    {
+      "word": "multimodal transport",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmʌltiˈməʊdl ˈtrænspɔːt/",
+      "meaning": "vận tải đa phương thức"
+    },
+    {
+      "word": "customs broker",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ˈbrəʊkə/",
+      "meaning": "đại lý hải quan"
+    },
+    {
+      "word": "bill of lading",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌbɪl əv ˈleɪdɪŋ/",
+      "meaning": "vận đơn đường biển"
+    },
+    {
+      "word": "commercial invoice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmɜːʃl ˈɪnvɔɪs/",
+      "meaning": "hóa đơn thương mại"
+    },
+    {
+      "word": "packing list",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpækɪŋ lɪst/",
+      "meaning": "bảng kê đóng gói"
+    },
+    {
+      "word": "incoterms rule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪŋkəʊtɜːmz ruːl/",
+      "meaning": "quy tắc incoterms"
+    },
+    {
+      "word": "port congestion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːt kənˈdʒestʃən/",
+      "meaning": "tắc nghẽn cảng"
+    },
+    {
+      "word": "demurrage fee",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmʌrɪdʒ fiː/",
+      "meaning": "phí lưu container"
+    },
+    {
+      "word": "detention charge",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈtenʃən tʃɑːdʒ/",
+      "meaning": "phí lưu container ngoài cảng"
+    },
+    {
+      "word": "last-mile delivery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɑːst maɪl dɪˈlɪvəri/",
+      "meaning": "giao hàng chặng cuối"
+    },
+    {
+      "word": "customs valuation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ˌvæljuˈeɪʃən/",
+      "meaning": "định giá hải quan"
+    },
+    {
+      "word": "duty drawback",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdjuːti ˈdrɔːbæk/",
+      "meaning": "hoàn thuế nhập khẩu"
+    },
+    {
+      "word": "bonded warehouse",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɒndɪd ˈweəhaʊs/",
+      "meaning": "kho ngoại quan"
+    },
+    {
+      "word": "airway bill",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈeəweɪ bɪl/",
+      "meaning": "vận đơn hàng không"
+    },
+    {
+      "word": "sailing schedule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪlɪŋ ˈʃedjuːl/",
+      "meaning": "lịch tàu chạy"
+    },
+    {
+      "word": "container tracking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈteɪnə ˈtrækɪŋ/",
+      "meaning": "theo dõi container"
+    },
+    {
+      "word": "temperature-controlled",
+      "partOfSpeech": "adj.",
+      "ipa": "/ˈtemprətʃə kənˈtrəʊld/",
+      "meaning": "kiểm soát nhiệt độ"
+    },
+    {
+      "word": "cross-border e-commerce",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/krɒs ˈbɔːdə iː ˈkɒmɜːs/",
+      "meaning": "thương mại điện tử xuyên biên giới"
+    },
+    {
+      "word": "cargo insurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːɡəʊ ɪnˈʃʊərəns/",
+      "meaning": "bảo hiểm hàng hóa"
+    },
+    {
+      "word": "lead time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːd taɪm/",
+      "meaning": "thời gian thực hiện"
+    },
+    {
+      "word": "supply visibility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ ˌvɪzəˈbɪləti/",
+      "meaning": "tính minh bạch nguồn cung"
+    },
+    {
+      "word": "intermodal hub",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪntəˈməʊdl hʌb/",
+      "meaning": "trung tâm liên vận"
+    },
+    {
+      "word": "trade compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/treɪd kəmˈplaɪəns/",
+      "meaning": "tuân thủ thương mại"
+    },
+    {
+      "word": "origin inspection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒrɪdʒɪn ɪnˈspekʃən/",
+      "meaning": "kiểm tra tại nước xuất xứ"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 93 - Digital Marketing Analytics",
+  "words": [
+    {
+      "word": "conversion funnel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːʃn ˈfʌnl/",
+      "meaning": "phễu chuyển đổi"
+    },
+    {
+      "word": "multi-touch attribution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmʌlti ˈtʌtʃ ˌætrɪˈbjuːʃən/",
+      "meaning": "mô hình phân bổ đa điểm chạm"
+    },
+    {
+      "word": "engagement rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈɡeɪdʒmənt reɪt/",
+      "meaning": "tỉ lệ tương tác"
+    },
+    {
+      "word": "click-through",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈklɪkˌθruː/",
+      "meaning": "lượt nhấp"
+    },
+    {
+      "word": "bounce rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/baʊns reɪt/",
+      "meaning": "tỉ lệ thoát"
+    },
+    {
+      "word": "heatmap tracking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhiːtmæp ˈtrækɪŋ/",
+      "meaning": "theo dõi bản đồ nhiệt"
+    },
+    {
+      "word": "session duration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseʃn djʊəˈreɪʃən/",
+      "meaning": "thời lượng phiên"
+    },
+    {
+      "word": "retargeting audience",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌriːˈtɑːɡɪtɪŋ ˈɔːdiəns/",
+      "meaning": "tệp khách tái tiếp thị"
+    },
+    {
+      "word": "lookalike segment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlʊkəlaɪk ˈseɡmənt/",
+      "meaning": "phân khúc tương đồng"
+    },
+    {
+      "word": "lifetime value",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪftaɪm ˈvæljuː/",
+      "meaning": "giá trị vòng đời"
+    },
+    {
+      "word": "marketing mix modeling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪtɪŋ mɪks ˈmɒdəlɪŋ/",
+      "meaning": "mô hình phối thức marketing"
+    },
+    {
+      "word": "incremental lift",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnkrɪˈmentl lɪft/",
+      "meaning": "mức nâng bổ sung"
+    },
+    {
+      "word": "A/B testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌeɪ biː ˈtestɪŋ/",
+      "meaning": "thử nghiệm A/B"
+    },
+    {
+      "word": "data layer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈleɪə/",
+      "meaning": "tầng dữ liệu"
+    },
+    {
+      "word": "event tagging",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈvent ˈtæɡɪŋ/",
+      "meaning": "gắn thẻ sự kiện"
+    },
+    {
+      "word": "cohort analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkəʊhɔːt əˈnæləsɪs/",
+      "meaning": "phân tích nhóm"
+    },
+    {
+      "word": "predictive scoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˈskɔːrɪŋ/",
+      "meaning": "chấm điểm dự báo"
+    },
+    {
+      "word": "channel attribution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃænl ˌætrɪˈbjuːʃən/",
+      "meaning": "phân bổ kênh"
+    },
+    {
+      "word": "organic reach",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɔːˈɡænɪk riːtʃ/",
+      "meaning": "độ phủ tự nhiên"
+    },
+    {
+      "word": "utm parameter",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌjuː tiː ˈem pəˈræmɪtə/",
+      "meaning": "tham số UTM"
+    },
+    {
+      "word": "marketing qualified lead",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪtɪŋ ˈkwɒlɪfaɪd liːd/",
+      "meaning": "khách tiềm năng đủ điều kiện marketing"
+    },
+    {
+      "word": "cost per acquisition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɒst pə ˌækwɪˈzɪʃən/",
+      "meaning": "chi phí trên mỗi chuyển đổi"
+    },
+    {
+      "word": "view-through conversion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvjuː θruː kənˈvɜːʒən/",
+      "meaning": "chuyển đổi sau khi xem"
+    },
+    {
+      "word": "attribution window",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌætrɪˈbjuːʃən ˈwɪndəʊ/",
+      "meaning": "khoảng thời gian ghi nhận"
+    },
+    {
+      "word": "data storytelling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈstɔːrɪˌtelɪŋ/",
+      "meaning": "kể chuyện bằng dữ liệu"
+    }
+  ]
+}

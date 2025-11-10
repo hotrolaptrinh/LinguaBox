@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 88 - Startup Growth & Venture Capital",
+  "words": [
+    {
+      "word": "minimum viable product",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/",
+      "meaning": "sản phẩm khả dụng tối thiểu"
+    },
+    {
+      "word": "product-market fit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈmɑːkɪt fɪt/",
+      "meaning": "độ phù hợp sản phẩm-thị trường"
+    },
+    {
+      "word": "customer discovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə dɪˈskʌvəri/",
+      "meaning": "khám phá khách hàng"
+    },
+    {
+      "word": "growth experiment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrəʊθ ɪkˈsperɪmənt/",
+      "meaning": "thử nghiệm tăng trưởng"
+    },
+    {
+      "word": "acquisition channel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌækwɪˈzɪʃn ˈtʃænl/",
+      "meaning": "kênh thu hút"
+    },
+    {
+      "word": "activation rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌæktɪˈveɪʃn reɪt/",
+      "meaning": "tỷ lệ kích hoạt"
+    },
+    {
+      "word": "retention cohort",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtenʃn ˈkəʊhɔːt/",
+      "meaning": "nhóm giữ chân"
+    },
+    {
+      "word": "referral loop",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈfɜːrəl luːp/",
+      "meaning": "vòng giới thiệu"
+    },
+    {
+      "word": "revenue runway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrevənjuː ˈrʌnweɪ/",
+      "meaning": "đường băng doanh thu"
+    },
+    {
+      "word": "burn rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bɜːn reɪt/",
+      "meaning": "tốc độ tiêu tiền"
+    },
+    {
+      "word": "unit economics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːnɪt ˌiːkəˈnɒmɪks/",
+      "meaning": "kinh tế đơn vị"
+    },
+    {
+      "word": "monthly recurring revenue",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmʌnθli rɪˈkɜːrɪŋ ˈrevənjuː/",
+      "meaning": "doanh thu định kỳ hàng tháng"
+    },
+    {
+      "word": "annual contract value",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈænjuəl ˈkɒntrækt ˈvæljuː/",
+      "meaning": "giá trị hợp đồng hàng năm"
+    },
+    {
+      "word": "fundraising deck",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfʌndˌreɪzɪŋ dek/",
+      "meaning": "bộ slide gọi vốn"
+    },
+    {
+      "word": "investor pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestə ˈpaɪplaɪn/",
+      "meaning": "danh sách nhà đầu tư tiềm năng"
+    },
+    {
+      "word": "valuation cap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvæljuˈeɪʃn kæp/",
+      "meaning": "trần định giá"
+    },
+    {
+      "word": "term sheet",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tɜːm ʃiːt/",
+      "meaning": "bản điều khoản"
+    },
+    {
+      "word": "liquidation preference",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌlɪkwɪˈdeɪʃn ˈprefərəns/",
+      "meaning": "quyền ưu tiên thanh lý"
+    },
+    {
+      "word": "vesting schedule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvestɪŋ ˈskedʒuːl/",
+      "meaning": "lịch trao quyền"
+    },
+    {
+      "word": "option pool",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒpʃn puːl/",
+      "meaning": "quỹ cổ phần cho nhân viên"
+    },
+    {
+      "word": "board governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bɔːd ˈɡʌvənəns/",
+      "meaning": "quản trị hội đồng"
+    },
+    {
+      "word": "strategic partnership",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/strəˈtiːdʒɪk ˈpɑːtnəʃɪp/",
+      "meaning": "quan hệ đối tác chiến lược"
+    },
+    {
+      "word": "exit strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈeksɪt ˈstrætədʒi/",
+      "meaning": "chiến lược thoái vốn"
+    },
+    {
+      "word": "secondary transaction",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsekəndri trænˈzækʃn/",
+      "meaning": "giao dịch thứ cấp"
+    },
+    {
+      "word": "growth hacking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrəʊθ ˈhækɪŋ/",
+      "meaning": "chiến thuật tăng trưởng đột phá"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 83 - Financial Markets",
+  "words": [
+    {
+      "word": "initial public offering",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈnɪʃl ˈpʌblɪk ˈɒfərɪŋ/",
+      "meaning": "phát hành cổ phiếu lần đầu"
+    },
+    {
+      "word": "secondary offering",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsekəndri ˈɒfərɪŋ/",
+      "meaning": "phát hành bổ sung"
+    },
+    {
+      "word": "underwriting syndicate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈʌndəraɪtɪŋ ˈsɪndɪkət/",
+      "meaning": "liên danh bảo lãnh"
+    },
+    {
+      "word": "equity research",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈekwəti rɪˈsɜːtʃ/",
+      "meaning": "nghiên cứu cổ phiếu"
+    },
+    {
+      "word": "credit rating",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkredɪt ˈreɪtɪŋ/",
+      "meaning": "xếp hạng tín dụng"
+    },
+    {
+      "word": "market liquidity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪt lɪˈkwɪdəti/",
+      "meaning": "thanh khoản thị trường"
+    },
+    {
+      "word": "price discovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/praɪs dɪˈskʌvəri/",
+      "meaning": "tìm giá"
+    },
+    {
+      "word": "trading desk",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtreɪdɪŋ desk/",
+      "meaning": "bàn giao dịch"
+    },
+    {
+      "word": "portfolio diversification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːtˈfəʊliəʊ daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "meaning": "đa dạng hóa danh mục"
+    },
+    {
+      "word": "asset allocation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈæset ˌæləˈkeɪʃn/",
+      "meaning": "phân bổ tài sản"
+    },
+    {
+      "word": "hedging strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhedʒɪŋ ˈstrætədʒi/",
+      "meaning": "chiến lược phòng hộ"
+    },
+    {
+      "word": "derivative contract",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈrɪvətɪv ˈkɒntrækt/",
+      "meaning": "hợp đồng phái sinh"
+    },
+    {
+      "word": "options premium",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒpʃnz ˈpriːmiəm/",
+      "meaning": "phí quyền chọn"
+    },
+    {
+      "word": "risk-adjusted return",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk əˈdʒʌstɪd rɪˈtɜːn/",
+      "meaning": "lợi nhuận điều chỉnh rủi ro"
+    },
+    {
+      "word": "capital adequacy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkæpɪtl ˈædɪkwəsi/",
+      "meaning": "đủ vốn"
+    },
+    {
+      "word": "regulatory capital",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌreɡjʊlətəri ˈkæpɪtl/",
+      "meaning": "vốn theo quy định"
+    },
+    {
+      "word": "Basel compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɑːzl kəmˈplaɪəns/",
+      "meaning": "tuân thủ Basel"
+    },
+    {
+      "word": "stress testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/stres ˈtestɪŋ/",
+      "meaning": "kiểm tra sức chịu đựng"
+    },
+    {
+      "word": "deal origination",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl əˌrɪdʒɪˈneɪʃn/",
+      "meaning": "khởi nguồn thương vụ"
+    },
+    {
+      "word": "merger model",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɜːdʒə ˈmɒdl/",
+      "meaning": "mô hình sáp nhập"
+    },
+    {
+      "word": "fairness opinion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfeənəs əˈpɪnjən/",
+      "meaning": "ý kiến công bằng"
+    },
+    {
+      "word": "roadshow presentation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrəʊdʃəʊ ˌprezənˈteɪʃn/",
+      "meaning": "thuyết trình roadshow"
+    },
+    {
+      "word": "investor relations",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestə rɪˈleɪʃnz/",
+      "meaning": "quan hệ nhà đầu tư"
+    },
+    {
+      "word": "closing checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkləʊzɪŋ ˈtʃeklɪst/",
+      "meaning": "danh sách đóng giao dịch"
+    },
+    {
+      "word": "post-merger integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌpəʊst ˈmɜːdʒə ˌɪntɪˈɡreɪʃn/",
+      "meaning": "hậu sáp nhập"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 112 - Investment Banking",
+  "words": [
+    {
+      "word": "mergers and acquisitions",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɜːdʒəz ænd ˌækwɪˈzɪʃənz/",
+      "meaning": "sáp nhập và mua lại"
+    },
+    {
+      "word": "pitch book",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɪtʃ bʊk/",
+      "meaning": "tài liệu thuyết trình"
+    },
+    {
+      "word": "fairness opinion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfeənəs əˈpɪnjən/",
+      "meaning": "ý kiến công bằng"
+    },
+    {
+      "word": "deal pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl ˈpaɪplaɪn/",
+      "meaning": "chuỗi thương vụ"
+    },
+    {
+      "word": "valuation model",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvæljuˈeɪʃən ˈmɒdl/",
+      "meaning": "mô hình định giá"
+    },
+    {
+      "word": "discounted cash flow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪsˈkaʊntɪd kæʃ fləʊ/",
+      "meaning": "dòng tiền chiết khấu"
+    },
+    {
+      "word": "comparable companies",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒmpərəbl ˈkʌmpəniz/",
+      "meaning": "doanh nghiệp tương đồng"
+    },
+    {
+      "word": "engagement letter",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈɡeɪdʒmənt ˈletə/",
+      "meaning": "thư cam kết"
+    },
+    {
+      "word": "capital raise",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkæpɪtl reɪz/",
+      "meaning": "gọi vốn"
+    },
+    {
+      "word": "roadshow",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈrəʊdʃəʊ/",
+      "meaning": "chuỗi gặp gỡ nhà đầu tư"
+    },
+    {
+      "word": "initial public offering",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈnɪʃl ˈpʌblɪk ˈɒfərɪŋ/",
+      "meaning": "phát hành cổ phiếu lần đầu"
+    },
+    {
+      "word": "deal origination",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl əˌrɪdʒɪˈneɪʃən/",
+      "meaning": "khởi tạo thương vụ"
+    },
+    {
+      "word": "due diligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/djuː ˈdɪlɪdʒəns/",
+      "meaning": "thẩm định"
+    },
+    {
+      "word": "transaction structure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænˈzækʃən ˈstrʌktʃə/",
+      "meaning": "cấu trúc giao dịch"
+    },
+    {
+      "word": "synergy analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɪnədʒi əˈnæləsɪs/",
+      "meaning": "phân tích hiệp lực"
+    },
+    {
+      "word": "financing package",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/faɪˈnænsɪŋ ˈpækɪdʒ/",
+      "meaning": "gói tài trợ"
+    },
+    {
+      "word": "confidential information memorandum",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkɒnfɪˈdenʃl ˌɪnfəˈmeɪʃən ˌmeməˈrændəm/",
+      "meaning": "bản ghi nhớ thông tin mật"
+    },
+    {
+      "word": "deal execution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl ˌeksɪˈkjuːʃən/",
+      "meaning": "thực hiện thương vụ"
+    },
+    {
+      "word": "share purchase agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ʃeə ˈpɜːtʃəs əˈɡriːmənt/",
+      "meaning": "hợp đồng mua cổ phần"
+    },
+    {
+      "word": "closing checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkləʊzɪŋ ˈtʃeklɪst/",
+      "meaning": "danh sách đóng giao dịch"
+    },
+    {
+      "word": "deal syndicate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl ˈsɪndɪkət/",
+      "meaning": "liên danh giao dịch"
+    },
+    {
+      "word": "earnings accretion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɜːnɪŋz əˈkriːʃən/",
+      "meaning": "tăng lợi nhuận trên cổ phiếu"
+    },
+    {
+      "word": "tombstone announcement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtuːmstəʊn əˈnaʊnsmənt/",
+      "meaning": "thông báo giao dịch"
+    },
+    {
+      "word": "deal backlog",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/diːl ˈbæklɒɡ/",
+      "meaning": "danh sách thương vụ"
+    },
+    {
+      "word": "transaction fee",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænˈzækʃən fiː/",
+      "meaning": "phí giao dịch"
+    }
+  ]
+}

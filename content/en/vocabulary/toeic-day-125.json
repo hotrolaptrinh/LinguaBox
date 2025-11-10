@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 125 - Business Intelligence",
+  "words": [
+    {
+      "word": "business intelligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪznəs ɪnˈtelɪdʒəns/",
+      "meaning": "trí tuệ doanh nghiệp"
+    },
+    {
+      "word": "data warehouse",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈweəhaʊs/",
+      "meaning": "kho dữ liệu"
+    },
+    {
+      "word": "data mart",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə mɑːt/",
+      "meaning": "chợ dữ liệu"
+    },
+    {
+      "word": "dashboard design",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdæʃbɔːd dɪˈzaɪn/",
+      "meaning": "thiết kế bảng điều khiển"
+    },
+    {
+      "word": "executive dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪɡˈzekjʊtɪv ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển lãnh đạo"
+    },
+    {
+      "word": "self-service analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/self ˈsɜːvɪs ˌænəˈlɪtɪks/",
+      "meaning": "phân tích tự phục vụ"
+    },
+    {
+      "word": "data governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈɡʌvənəns/",
+      "meaning": "quản trị dữ liệu"
+    },
+    {
+      "word": "data lineage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈlɪniɪdʒ/",
+      "meaning": "nguồn gốc dữ liệu"
+    },
+    {
+      "word": "semantic layer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈmæntɪk ˈleɪə/",
+      "meaning": "lớp ngữ nghĩa"
+    },
+    {
+      "word": "data storytelling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈstɔːrɪˌtelɪŋ/",
+      "meaning": "kể chuyện bằng dữ liệu"
+    },
+    {
+      "word": "KPI dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkeɪ piː ˈaɪ ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển KPI"
+    },
+    {
+      "word": "data visualization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˌvɪʒuəlaɪˈzeɪʃən/",
+      "meaning": "trực quan hóa dữ liệu"
+    },
+    {
+      "word": "cohort analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkəʊhɔːt əˈnæləsɪs/",
+      "meaning": "phân tích nhóm"
+    },
+    {
+      "word": "retention metric",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtenʃən ˈmetrɪk/",
+      "meaning": "chỉ số giữ chân"
+    },
+    {
+      "word": "benchmark comparison",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbentʃmɑːk kəmˈpærɪsn/",
+      "meaning": "so sánh chuẩn"
+    },
+    {
+      "word": "data refresh",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə rɪˈfreʃ/",
+      "meaning": "cập nhật dữ liệu"
+    },
+    {
+      "word": "data quality",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈkwɒləti/",
+      "meaning": "chất lượng dữ liệu"
+    },
+    {
+      "word": "business insight",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪznəs ˈɪnsaɪt/",
+      "meaning": "thấu hiểu kinh doanh"
+    },
+    {
+      "word": "report automation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈpɔːt ˌɔːtəˈmeɪʃən/",
+      "meaning": "tự động hóa báo cáo"
+    },
+    {
+      "word": "data democratization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə dɪˌmɒkrətaɪˈzeɪʃən/",
+      "meaning": "dân chủ hóa dữ liệu"
+    },
+    {
+      "word": "analytics roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌænəˈlɪtɪks ˈrəʊdmæp/",
+      "meaning": "lộ trình phân tích"
+    },
+    {
+      "word": "data catalogue",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈkætəlɒɡ/",
+      "meaning": "danh mục dữ liệu"
+    },
+    {
+      "word": "business dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪznəs ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển kinh doanh"
+    },
+    {
+      "word": "insight generation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsaɪt ˌdʒenəˈreɪʃən/",
+      "meaning": "tạo ra hiểu biết"
+    },
+    {
+      "word": "decision intelligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈsɪʒən ɪnˈtelɪdʒəns/",
+      "meaning": "trí tuệ ra quyết định"
+    }
+  ]
+}

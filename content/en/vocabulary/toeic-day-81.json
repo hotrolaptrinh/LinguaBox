@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 81 - E-commerce Optimization",
+  "words": [
+    {
+      "word": "conversion rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːʃn reɪt/",
+      "meaning": "tỷ lệ chuyển đổi"
+    },
+    {
+      "word": "bounce rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/baʊns reɪt/",
+      "meaning": "tỷ lệ thoát"
+    },
+    {
+      "word": "cart abandonment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɑːt əˈbændənmənt/",
+      "meaning": "bỏ giỏ hàng"
+    },
+    {
+      "word": "customer journey map",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni mæp/",
+      "meaning": "bản đồ hành trình khách"
+    },
+    {
+      "word": "UX research",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌjuː ˈeks rɪˈsɜːtʃ/",
+      "meaning": "nghiên cứu trải nghiệm"
+    },
+    {
+      "word": "heatmap analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhiːtmæp əˈnæləsɪs/",
+      "meaning": "phân tích bản đồ nhiệt"
+    },
+    {
+      "word": "product recommendation engine",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˌrekəmenˈdeɪʃn ˈendʒɪn/",
+      "meaning": "công cụ gợi ý sản phẩm"
+    },
+    {
+      "word": "dynamic pricing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/daɪˈnæmɪk ˈpraɪsɪŋ/",
+      "meaning": "định giá linh hoạt"
+    },
+    {
+      "word": "inventory sync",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈventəri sɪŋk/",
+      "meaning": "đồng bộ tồn kho"
+    },
+    {
+      "word": "omnichannel strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒmnɪˌtʃænəl ˈstrætədʒi/",
+      "meaning": "chiến lược đa kênh"
+    },
+    {
+      "word": "last-mile delivery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɑːst maɪl dɪˈlɪvəri/",
+      "meaning": "giao hàng chặng cuối"
+    },
+    {
+      "word": "payment gateway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪmənt ˈɡeɪtweɪ/",
+      "meaning": "cổng thanh toán"
+    },
+    {
+      "word": "fraud screening",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/frɔːd ˈskriːnɪŋ/",
+      "meaning": "sàng lọc gian lận"
+    },
+    {
+      "word": "checkout flow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃekaʊt fləʊ/",
+      "meaning": "quy trình thanh toán"
+    },
+    {
+      "word": "mobile responsiveness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈməʊbaɪl rɪˈspɒnsɪvnəs/",
+      "meaning": "tương thích di động"
+    },
+    {
+      "word": "page load time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/peɪdʒ ləʊd taɪm/",
+      "meaning": "thời gian tải trang"
+    },
+    {
+      "word": "SEO optimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌes iː ˈəʊ ˌɒptɪmaɪˈzeɪʃn/",
+      "meaning": "tối ưu hóa SEO"
+    },
+    {
+      "word": "content personalization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent ˌpɜːsənəlaɪˈzeɪʃn/",
+      "meaning": "cá nhân hóa nội dung"
+    },
+    {
+      "word": "email retargeting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈiːmeɪl ˌriːˈtɑːɡɪtɪŋ/",
+      "meaning": "tiếp thị lại qua email"
+    },
+    {
+      "word": "loyalty program tier",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɔɪəlti ˈprəʊɡræm tɪə/",
+      "meaning": "hạng thành viên"
+    },
+    {
+      "word": "social proof",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsəʊʃl pruːf/",
+      "meaning": "bằng chứng xã hội"
+    },
+    {
+      "word": "influencer partnership",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnfluənsə ˈpɑːtnəʃɪp/",
+      "meaning": "hợp tác với người ảnh hưởng"
+    },
+    {
+      "word": "subscription model",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səbˈskrɪpʃn ˈmɒdl/",
+      "meaning": "mô hình đăng ký"
+    },
+    {
+      "word": "A/B testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌeɪ biː ˈtestɪŋ/",
+      "meaning": "thử nghiệm A/B"
+    },
+    {
+      "word": "data-driven decision",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈdrɪvn dɪˈsɪʒn/",
+      "meaning": "quyết định dựa trên dữ liệu"
+    }
+  ]
+}

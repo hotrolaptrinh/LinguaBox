@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 84 - Customer Success",
+  "words": [
+    {
+      "word": "onboarding journey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɒnˈbɔːdɪŋ ˈdʒɜːni/",
+      "meaning": "hành trình khởi tạo"
+    },
+    {
+      "word": "customer health score",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə helθ skɔː/",
+      "meaning": "điểm sức khỏe khách hàng"
+    },
+    {
+      "word": "adoption milestone",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈdɒpʃn ˈmaɪlstəʊn/",
+      "meaning": "cột mốc sử dụng"
+    },
+    {
+      "word": "usage analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːsɪdʒ ˌænəˈlɪtɪks/",
+      "meaning": "phân tích mức sử dụng"
+    },
+    {
+      "word": "churn indicator",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tʃɜːn ˈɪndɪkeɪtə/",
+      "meaning": "chỉ báo rời bỏ"
+    },
+    {
+      "word": "renewal forecast",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəl ˈfɔːkɑːst/",
+      "meaning": "dự báo gia hạn"
+    },
+    {
+      "word": "expansion opportunity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspænʃn ˌɒpəˈtjuːnəti/",
+      "meaning": "cơ hội mở rộng"
+    },
+    {
+      "word": "upsell playbook",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈʌpsel ˈpleɪbʊk/",
+      "meaning": "cẩm nang bán thêm"
+    },
+    {
+      "word": "success plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səkˈses plæn/",
+      "meaning": "kế hoạch thành công"
+    },
+    {
+      "word": "executive business review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪɡˈzekjətɪv ˈbɪznəs rɪˈvjuː/",
+      "meaning": "đánh giá doanh nghiệp cấp cao"
+    },
+    {
+      "word": "stakeholder alignment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə əˈlaɪnmənt/",
+      "meaning": "đồng bộ các bên liên quan"
+    },
+    {
+      "word": "value realization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvæljuː ˌriːəlaɪˈzeɪʃn/",
+      "meaning": "hiện thực hóa giá trị"
+    },
+    {
+      "word": "feature activation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə ˌæktɪˈveɪʃn/",
+      "meaning": "kích hoạt tính năng"
+    },
+    {
+      "word": "support ticket",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈpɔːt ˈtɪkɪt/",
+      "meaning": "phiếu hỗ trợ"
+    },
+    {
+      "word": "response time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈspɒns taɪm/",
+      "meaning": "thời gian phản hồi"
+    },
+    {
+      "word": "satisfaction survey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌsætɪsˈfækʃn ˈsɜːveɪ/",
+      "meaning": "khảo sát hài lòng"
+    },
+    {
+      "word": "net promoter score",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/net prəˈməʊtə skɔː/",
+      "meaning": "chỉ số NPS"
+    },
+    {
+      "word": "advocacy program",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædvəkəsi ˈprəʊɡræm/",
+      "meaning": "chương trình ủng hộ"
+    },
+    {
+      "word": "reference customer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrefrəns ˈkʌstəmə/",
+      "meaning": "khách hàng tham chiếu"
+    },
+    {
+      "word": "community forum",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmjuːnəti ˈfɔːrəm/",
+      "meaning": "diễn đàn cộng đồng"
+    },
+    {
+      "word": "knowledge base",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ beɪs/",
+      "meaning": "kho tri thức"
+    },
+    {
+      "word": "escalation path",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌeskəˈleɪʃn pɑːθ/",
+      "meaning": "lộ trình leo thang"
+    },
+    {
+      "word": "root cause resolution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz ˌrezəˈluːʃn/",
+      "meaning": "giải quyết nguyên nhân gốc"
+    },
+    {
+      "word": "success metrics dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səkˈses ˈmetrɪks ˈdæʃbɔːd/",
+      "meaning": "bảng chỉ số thành công"
+    },
+    {
+      "word": "retention strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtenʃn ˈstrætədʒi/",
+      "meaning": "chiến lược giữ chân"
+    }
+  ]
+}

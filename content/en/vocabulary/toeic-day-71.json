@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 71 - Cybersecurity Strategy",
+  "words": [
+    {
+      "word": "security audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈɔːdɪt/",
+      "meaning": "kiểm toán an ninh"
+    },
+    {
+      "word": "threat intelligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/θret ɪnˈtelɪdʒəns/",
+      "meaning": "tình báo mối đe dọa"
+    },
+    {
+      "word": "vulnerability assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvʌlnərəˈbɪləti əˈsesmənt/",
+      "meaning": "đánh giá lỗ hổng"
+    },
+    {
+      "word": "intrusion detection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈtruːʒn dɪˈtekʃn/",
+      "meaning": "phát hiện xâm nhập"
+    },
+    {
+      "word": "firewall policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfaɪəwɔːl ˈpɒləsi/",
+      "meaning": "chính sách tường lửa"
+    },
+    {
+      "word": "encryption key",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈkrɪpʃn kiː/",
+      "meaning": "khóa mã hóa"
+    },
+    {
+      "word": "multi-factor authentication",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmʌlti ˈfæktə ɔːˌθentɪˈkeɪʃn/",
+      "meaning": "xác thực đa yếu tố"
+    },
+    {
+      "word": "zero-trust architecture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈzɪərəʊ trʌst ˈɑːkɪtektʃə/",
+      "meaning": "kiến trúc không tin cậy"
+    },
+    {
+      "word": "security operations center",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˌɒpəˈreɪʃnz ˈsentə/",
+      "meaning": "trung tâm điều hành an ninh"
+    },
+    {
+      "word": "incident response plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt rɪˈspɒns plæn/",
+      "meaning": "kế hoạch ứng phó sự cố"
+    },
+    {
+      "word": "breach notification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/briːtʃ ˌnəʊtɪfɪˈkeɪʃn/",
+      "meaning": "thông báo vi phạm"
+    },
+    {
+      "word": "penetration testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌpenɪˈtreɪʃn ˈtestɪŋ/",
+      "meaning": "kiểm thử xâm nhập"
+    },
+    {
+      "word": "security posture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈpɒstʃə/",
+      "meaning": "tư thế an ninh"
+    },
+    {
+      "word": "access control list",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈækses kənˈtrəʊl lɪst/",
+      "meaning": "danh sách kiểm soát truy cập"
+    },
+    {
+      "word": "privileged account",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɪvəlɪdʒd əˈkaʊnt/",
+      "meaning": "tài khoản đặc quyền"
+    },
+    {
+      "word": "data loss prevention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə lɒs prɪˈvenʃn/",
+      "meaning": "ngăn ngừa mất dữ liệu"
+    },
+    {
+      "word": "security awareness training",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti əˈweənəs ˈtreɪnɪŋ/",
+      "meaning": "đào tạo nhận thức an ninh"
+    },
+    {
+      "word": "phishing simulation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfɪʃɪŋ ˌsɪmjʊˈleɪʃn/",
+      "meaning": "mô phỏng lừa đảo"
+    },
+    {
+      "word": "endpoint protection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈendpɔɪnt prəˈtekʃn/",
+      "meaning": "bảo vệ thiết bị đầu cuối"
+    },
+    {
+      "word": "patch management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pætʃ ˈmænɪdʒmənt/",
+      "meaning": "quản lý bản vá"
+    },
+    {
+      "word": "security compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti kəmˈplaɪəns/",
+      "meaning": "tuân thủ an ninh"
+    },
+    {
+      "word": "governance risk compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡʌvənəns rɪsk kəmˈplaɪəns/",
+      "meaning": "quản trị rủi ro tuân thủ"
+    },
+    {
+      "word": "risk appetite",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈæpɪtaɪt/",
+      "meaning": "khẩu vị rủi ro"
+    },
+    {
+      "word": "mitigation strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmɪtɪˈɡeɪʃn ˈstrætədʒi/",
+      "meaning": "chiến lược giảm thiểu"
+    },
+    {
+      "word": "business continuity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪznəs ˌkɒntɪˈnjuːəti/",
+      "meaning": "duy trì hoạt động kinh doanh"
+    }
+  ]
+}

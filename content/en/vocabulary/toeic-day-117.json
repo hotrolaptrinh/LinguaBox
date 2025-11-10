@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 117 - Smart Manufacturing",
+  "words": [
+    {
+      "word": "industrial internet of things",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈdʌstriəl ˈɪntənet əv θɪŋz/",
+      "meaning": "internet vạn vật công nghiệp"
+    },
+    {
+      "word": "edge analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/edʒ ˌænəˈlɪtɪks/",
+      "meaning": "phân tích tại biên"
+    },
+    {
+      "word": "real-time dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrɪəl taɪm ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển thời gian thực"
+    },
+    {
+      "word": "sensor fusion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsensə ˈfjuːʒən/",
+      "meaning": "kết hợp cảm biến"
+    },
+    {
+      "word": "connected factory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈnektɪd ˈfæktri/",
+      "meaning": "nhà máy kết nối"
+    },
+    {
+      "word": "machine connectivity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈʃiːn kəˌnekˈtɪvɪti/",
+      "meaning": "kết nối máy móc"
+    },
+    {
+      "word": "production visibility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃən ˌvɪzəˈbɪləti/",
+      "meaning": "tính minh bạch sản xuất"
+    },
+    {
+      "word": "smart sensor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/smɑːt ˈsensə/",
+      "meaning": "cảm biến thông minh"
+    },
+    {
+      "word": "predictive analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˌænəˈlɪtɪks/",
+      "meaning": "phân tích dự báo"
+    },
+    {
+      "word": "edge gateway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/edʒ ˈɡeɪtweɪ/",
+      "meaning": "cổng biên"
+    },
+    {
+      "word": "manufacturing execution system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmænjuˈfæktʃərɪŋ ˌeksɪˈkjuːʃən ˈsɪstəm/",
+      "meaning": "hệ thống thực thi sản xuất"
+    },
+    {
+      "word": "digital thread",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl θred/",
+      "meaning": "chuỗi dữ liệu số"
+    },
+    {
+      "word": "production anomaly",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃən əˈnɒməli/",
+      "meaning": "bất thường sản xuất"
+    },
+    {
+      "word": "condition monitoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈdɪʃən ˈmɒnɪtərɪŋ/",
+      "meaning": "giám sát tình trạng"
+    },
+    {
+      "word": "data historian",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə hɪˈstɔːriən/",
+      "meaning": "kho lưu trữ dữ liệu"
+    },
+    {
+      "word": "connected asset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈnektɪd ˈæset/",
+      "meaning": "tài sản kết nối"
+    },
+    {
+      "word": "production traceability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃən ˌtreɪsəˈbɪləti/",
+      "meaning": "khả năng truy xuất sản xuất"
+    },
+    {
+      "word": "digital operations",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˌɒpəˈreɪʃənz/",
+      "meaning": "vận hành số"
+    },
+    {
+      "word": "smart maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/smɑːt ˈmeɪntənəns/",
+      "meaning": "bảo trì thông minh"
+    },
+    {
+      "word": "asset performance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈæset pəˈfɔːməns/",
+      "meaning": "hiệu suất tài sản"
+    },
+    {
+      "word": "data pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈpaɪplaɪn/",
+      "meaning": "chuỗi xử lý dữ liệu"
+    },
+    {
+      "word": "digital operations center",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˌɒpəˈreɪʃənz ˈsentə/",
+      "meaning": "trung tâm vận hành số"
+    },
+    {
+      "word": "predictive quality",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˈkwɒləti/",
+      "meaning": "chất lượng dự báo"
+    },
+    {
+      "word": "smart factory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/smɑːt ˈfæktri/",
+      "meaning": "nhà máy thông minh"
+    },
+    {
+      "word": "connected workforce",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈnektɪd ˈwɜːkfɔːs/",
+      "meaning": "lực lượng lao động kết nối"
+    }
+  ]
+}

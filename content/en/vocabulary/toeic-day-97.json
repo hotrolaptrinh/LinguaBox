@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 97 - Renewable Energy Projects",
+  "words": [
+    {
+      "word": "power purchase agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaʊə ˈpɜːtʃəs əˈɡriːmənt/",
+      "meaning": "hợp đồng mua bán điện"
+    },
+    {
+      "word": "feed-in tariff",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fiːd ɪn ˈtærɪf/",
+      "meaning": "biểu giá hỗ trợ"
+    },
+    {
+      "word": "grid interconnection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɪd ˌɪntəˈknekʃən/",
+      "meaning": "kết nối lưới điện"
+    },
+    {
+      "word": "renewable portfolio",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl pɔːtˈfəʊliəʊ/",
+      "meaning": "danh mục năng lượng tái tạo"
+    },
+    {
+      "word": "capacity factor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈpæsəti ˈfæktə/",
+      "meaning": "hệ số công suất"
+    },
+    {
+      "word": "solar array",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsəʊlə əˈreɪ/",
+      "meaning": "dãy pin mặt trời"
+    },
+    {
+      "word": "wind turbine",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/wɪnd ˈtɜːbaɪn/",
+      "meaning": "tuabin gió"
+    },
+    {
+      "word": "battery storage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbætəri ˈstɔːrɪdʒ/",
+      "meaning": "lưu trữ pin"
+    },
+    {
+      "word": "site assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/saɪt əˈsesmənt/",
+      "meaning": "đánh giá địa điểm"
+    },
+    {
+      "word": "environmental permit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˈpɜːmɪt/",
+      "meaning": "giấy phép môi trường"
+    },
+    {
+      "word": "grid parity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɪd ˈpærəti/",
+      "meaning": "điểm hòa giá lưới"
+    },
+    {
+      "word": "renewable certificate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl səˈtɪfɪkət/",
+      "meaning": "chứng chỉ năng lượng tái tạo"
+    },
+    {
+      "word": "offtake agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒfteɪk əˈɡriːmənt/",
+      "meaning": "hợp đồng bao tiêu"
+    },
+    {
+      "word": "site mobilization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/saɪt ˌməʊbɪlaɪˈzeɪʃən/",
+      "meaning": "huy động công trường"
+    },
+    {
+      "word": "foundation casting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/faʊnˈdeɪʃən ˈkɑːstɪŋ/",
+      "meaning": "đúc móng"
+    },
+    {
+      "word": "inverter station",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvɜːtə ˈsteɪʃən/",
+      "meaning": "trạm nghịch lưu"
+    },
+    {
+      "word": "transmission upgrade",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænzˈmɪʃən ˈʌpɡreɪd/",
+      "meaning": "nâng cấp truyền tải"
+    },
+    {
+      "word": "community benefit fund",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmjuːnəti ˈbenɪfɪt fʌnd/",
+      "meaning": "quỹ lợi ích cộng đồng"
+    },
+    {
+      "word": "project finance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʒekt ˈfaɪnæns/",
+      "meaning": "tài chính dự án"
+    },
+    {
+      "word": "green bond",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡriːn bɒnd/",
+      "meaning": "trái phiếu xanh"
+    },
+    {
+      "word": "renewable integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl ˌɪntɪˈɡreɪʃən/",
+      "meaning": "tích hợp năng lượng tái tạo"
+    },
+    {
+      "word": "performance ratio",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəˈfɔːməns ˈreɪʃiəʊ/",
+      "meaning": "tỷ lệ hiệu suất"
+    },
+    {
+      "word": "operation and maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɒpəˈreɪʃən ænd ˈmeɪntənəns/",
+      "meaning": "vận hành và bảo dưỡng"
+    },
+    {
+      "word": "curtailment risk",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɜːˈteɪlmənt rɪsk/",
+      "meaning": "rủi ro cắt giảm công suất"
+    },
+    {
+      "word": "resource assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɔːs əˈsesmənt/",
+      "meaning": "đánh giá nguồn lực"
+    }
+  ]
+}

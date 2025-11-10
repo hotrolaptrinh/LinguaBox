@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 77 - Research & Innovation",
+  "words": [
+    {
+      "word": "research roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ˈrəʊdmæp/",
+      "meaning": "lộ trình nghiên cứu"
+    },
+    {
+      "word": "innovation funnel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃn ˈfʌnl/",
+      "meaning": "phễu đổi mới"
+    },
+    {
+      "word": "hypothesis testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/haɪˈpɒθəsɪs ˈtestɪŋ/",
+      "meaning": "kiểm định giả thuyết"
+    },
+    {
+      "word": "experimental design",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˌsperɪˈmentl dɪˈzaɪn/",
+      "meaning": "thiết kế thí nghiệm"
+    },
+    {
+      "word": "control group",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtrəʊl ɡruːp/",
+      "meaning": "nhóm đối chứng"
+    },
+    {
+      "word": "peer review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌpɪə rɪˈvjuː/",
+      "meaning": "đánh giá đồng cấp"
+    },
+    {
+      "word": "data repository",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə rɪˈpɒzɪtəri/",
+      "meaning": "kho dữ liệu"
+    },
+    {
+      "word": "intellectual property strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti ˈstrætədʒi/",
+      "meaning": "chiến lược sở hữu trí tuệ"
+    },
+    {
+      "word": "patent filing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpætnt ˈfaɪlɪŋ/",
+      "meaning": "nộp đơn sáng chế"
+    },
+    {
+      "word": "technology transfer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tekˈnɒlədʒi ˈtrænsfɜː/",
+      "meaning": "chuyển giao công nghệ"
+    },
+    {
+      "word": "prototype iteration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊtətaɪp ˌɪtəˈreɪʃn/",
+      "meaning": "lặp cải tiến mẫu thử"
+    },
+    {
+      "word": "proof of concept",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pruːf əv ˈkɒnsept/",
+      "meaning": "minh chứng khả thi"
+    },
+    {
+      "word": "pilot program",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaɪlət ˈprəʊɡræm/",
+      "meaning": "chương trình thí điểm"
+    },
+    {
+      "word": "user testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːzə ˈtestɪŋ/",
+      "meaning": "thử nghiệm người dùng"
+    },
+    {
+      "word": "feedback loop",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːdbæk luːp/",
+      "meaning": "vòng phản hồi"
+    },
+    {
+      "word": "metrics dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmetrɪks ˈdæʃbɔːd/",
+      "meaning": "bảng đo lường"
+    },
+    {
+      "word": "funding proposal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfʌndɪŋ prəˈpəʊzl/",
+      "meaning": "đề xuất tài trợ"
+    },
+    {
+      "word": "grant compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɑːnt kəmˈplaɪəns/",
+      "meaning": "tuân thủ tài trợ"
+    },
+    {
+      "word": "publication pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌpʌblɪˈkeɪʃn ˈpaɪplaɪn/",
+      "meaning": "chuỗi xuất bản"
+    },
+    {
+      "word": "research ethics board",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ˈeθɪks bɔːd/",
+      "meaning": "hội đồng đạo đức nghiên cứu"
+    },
+    {
+      "word": "collaborative platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈlæbərətɪv ˈplætfɔːm/",
+      "meaning": "nền tảng hợp tác"
+    },
+    {
+      "word": "knowledge dissemination",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ dɪˌsemɪˈneɪʃn/",
+      "meaning": "phổ biến tri thức"
+    },
+    {
+      "word": "citation index",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/saɪˈteɪʃn ˈɪndeks/",
+      "meaning": "chỉ số trích dẫn"
+    },
+    {
+      "word": "breakthrough discovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbreɪkθruː dɪˈskʌvəri/",
+      "meaning": "phát hiện đột phá"
+    },
+    {
+      "word": "continuous improvement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtɪnjʊəs ɪmˈpruːvmənt/",
+      "meaning": "cải tiến liên tục"
+    }
+  ]
+}

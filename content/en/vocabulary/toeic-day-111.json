@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 111 - Customer Journey Mapping",
+  "words": [
+    {
+      "word": "customer journey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni/",
+      "meaning": "hành trình khách hàng"
+    },
+    {
+      "word": "touchpoint inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʌtʃpɔɪnt ˈɪnvəntri/",
+      "meaning": "danh sách điểm chạm"
+    },
+    {
+      "word": "experience stage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns steɪdʒ/",
+      "meaning": "giai đoạn trải nghiệm"
+    },
+    {
+      "word": "persona segmentation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəˈsəʊnə ˌseɡmenˈteɪʃən/",
+      "meaning": "phân khúc chân dung"
+    },
+    {
+      "word": "moment of truth",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈməʊmənt əv truːθ/",
+      "meaning": "khoảnh khắc quyết định"
+    },
+    {
+      "word": "journey stage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni steɪdʒ/",
+      "meaning": "giai đoạn hành trình"
+    },
+    {
+      "word": "empathy mapping",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈempəθi ˈmæpɪŋ/",
+      "meaning": "lập bản đồ thấu cảm"
+    },
+    {
+      "word": "pain point",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/peɪn pɔɪnt/",
+      "meaning": "điểm gây khó chịu"
+    },
+    {
+      "word": "opportunity area",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɒpəˈtjuːnɪti ˈeəriə/",
+      "meaning": "vùng cơ hội"
+    },
+    {
+      "word": "experience driver",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈdraɪvə/",
+      "meaning": "yếu tố thúc đẩy trải nghiệm"
+    },
+    {
+      "word": "journey analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni ˌænəˈlɪtɪks/",
+      "meaning": "phân tích hành trình"
+    },
+    {
+      "word": "experience baseline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈbeɪslaɪn/",
+      "meaning": "mốc trải nghiệm"
+    },
+    {
+      "word": "customer emotion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ɪˈməʊʃən/",
+      "meaning": "cảm xúc khách hàng"
+    },
+    {
+      "word": "journey orchestration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni ˌɔːkɪˈstreɪʃən/",
+      "meaning": "điều phối hành trình"
+    },
+    {
+      "word": "net promoter score",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/net prəˈməʊtə skɔː/",
+      "meaning": "điểm giới thiệu ròng"
+    },
+    {
+      "word": "service blueprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈbluːprɪnt/",
+      "meaning": "bản thiết kế dịch vụ"
+    },
+    {
+      "word": "experience metric",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈmetrɪk/",
+      "meaning": "chỉ số trải nghiệm"
+    },
+    {
+      "word": "journey hypothesis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni haɪˈpɒθəsɪs/",
+      "meaning": "giả thuyết hành trình"
+    },
+    {
+      "word": "loyalty trigger",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɔɪəlti ˈtrɪɡə/",
+      "meaning": "yếu tố kích hoạt trung thành"
+    },
+    {
+      "word": "churn indicator",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tʃɜːn ˈɪndɪkeɪtə/",
+      "meaning": "chỉ dấu rời bỏ"
+    },
+    {
+      "word": "experience backlog",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈbæklɒɡ/",
+      "meaning": "danh sách cải thiện trải nghiệm"
+    },
+    {
+      "word": "journey workshop",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni ˈwɜːkʃɒp/",
+      "meaning": "workshop xây dựng hành trình"
+    },
+    {
+      "word": "channel handoff",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃænl ˈhændɒf/",
+      "meaning": "chuyển giao kênh"
+    },
+    {
+      "word": "journey prototype",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni ˈprəʊtətaɪp/",
+      "meaning": "mẫu thử hành trình"
+    },
+    {
+      "word": "customer journey map",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni mæp/",
+      "meaning": "bản đồ hành trình khách hàng"
+    }
+  ]
+}

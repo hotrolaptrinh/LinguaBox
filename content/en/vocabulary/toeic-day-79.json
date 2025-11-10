@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 79 - Agribusiness & Food Supply",
+  "words": [
+    {
+      "word": "crop rotation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/krɒp rəʊˈteɪʃn/",
+      "meaning": "luân canh cây trồng"
+    },
+    {
+      "word": "soil fertility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɔɪl fəˈtɪləti/",
+      "meaning": "độ phì nhiêu của đất"
+    },
+    {
+      "word": "irrigation schedule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪrɪˈɡeɪʃn ˈskedʒuːl/",
+      "meaning": "lịch tưới"
+    },
+    {
+      "word": "precision agriculture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈsɪʒn ˈæɡrɪkʌltʃə/",
+      "meaning": "nông nghiệp chính xác"
+    },
+    {
+      "word": "yield forecast",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/jiːld ˈfɔːkɑːst/",
+      "meaning": "dự báo sản lượng"
+    },
+    {
+      "word": "pest management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pest ˈmænɪdʒmənt/",
+      "meaning": "quản lý sâu bệnh"
+    },
+    {
+      "word": "seed variety",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/siːd vəˈraɪəti/",
+      "meaning": "giống hạt"
+    },
+    {
+      "word": "greenhouse cultivation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡriːnhaʊs ˌkʌltɪˈveɪʃn/",
+      "meaning": "trồng trọt nhà kính"
+    },
+    {
+      "word": "farm cooperative",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɑːm kəʊˈɒpərətɪv/",
+      "meaning": "hợp tác xã nông nghiệp"
+    },
+    {
+      "word": "commodity pricing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmɒdəti ˈpraɪsɪŋ/",
+      "meaning": "định giá hàng hóa"
+    },
+    {
+      "word": "futures contract",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfjuːtʃəz ˈkɒntrækt/",
+      "meaning": "hợp đồng kỳ hạn"
+    },
+    {
+      "word": "cold storage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəʊld ˈstɔːrɪdʒ/",
+      "meaning": "kho lạnh"
+    },
+    {
+      "word": "refrigerated transport",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈfrɪdʒəreɪtɪd ˈtrænspɔːt/",
+      "meaning": "vận chuyển lạnh"
+    },
+    {
+      "word": "quality grading",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈɡreɪdɪŋ/",
+      "meaning": "phân hạng chất lượng"
+    },
+    {
+      "word": "food processing plant",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fuːd ˈprəʊsesɪŋ plɑːnt/",
+      "meaning": "nhà máy chế biến thực phẩm"
+    },
+    {
+      "word": "traceability system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌtreɪsəˈbɪləti ˈsɪstəm/",
+      "meaning": "hệ thống truy xuất"
+    },
+    {
+      "word": "supply chain visibility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ tʃeɪn ˌvɪzəˈbɪləti/",
+      "meaning": "tính minh bạch chuỗi cung ứng"
+    },
+    {
+      "word": "contamination recall",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˌtæmɪˈneɪʃn ˈriːkɔːl/",
+      "meaning": "thu hồi do nhiễm bẩn"
+    },
+    {
+      "word": "export certification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈekspɔːt ˌsɜːtɪfɪˈkeɪʃn/",
+      "meaning": "chứng nhận xuất khẩu"
+    },
+    {
+      "word": "fair trade premium",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/feə treɪd ˈpriːmiəm/",
+      "meaning": "phụ phí thương mại công bằng"
+    },
+    {
+      "word": "livestock welfare",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪvstɒk ˈwelfeə/",
+      "meaning": "phúc lợi vật nuôi"
+    },
+    {
+      "word": "feed formulation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fiːd ˌfɔːmjʊˈleɪʃn/",
+      "meaning": "công thức thức ăn"
+    },
+    {
+      "word": "veterinary inspection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvetərɪnəri ɪnˈspekʃn/",
+      "meaning": "kiểm dịch thú y"
+    },
+    {
+      "word": "sustainable sourcing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈsteɪnəbl ˈsɔːsɪŋ/",
+      "meaning": "nguồn cung bền vững"
+    },
+    {
+      "word": "market diversification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪt daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "meaning": "đa dạng hóa thị trường"
+    }
+  ]
+}

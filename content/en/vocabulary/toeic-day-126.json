@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 126 - Quality Assurance",
+  "words": [
+    {
+      "word": "quality assurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti əˈʃʊərəns/",
+      "meaning": "đảm bảo chất lượng"
+    },
+    {
+      "word": "process capability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌkeɪpəˈbɪləti/",
+      "meaning": "khả năng quy trình"
+    },
+    {
+      "word": "quality control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti kənˈtrəʊl/",
+      "meaning": "kiểm soát chất lượng"
+    },
+    {
+      "word": "corrective action",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈrektɪv ˈækʃən/",
+      "meaning": "hành động khắc phục"
+    },
+    {
+      "word": "preventive action",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈventɪv ˈækʃən/",
+      "meaning": "hành động phòng ngừa"
+    },
+    {
+      "word": "quality audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈɔːdɪt/",
+      "meaning": "kiểm toán chất lượng"
+    },
+    {
+      "word": "process validation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌvælɪˈdeɪʃən/",
+      "meaning": "thẩm định quy trình"
+    },
+    {
+      "word": "nonconformity report",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌnɒnkənˈfɔːməti rɪˈpɔːt/",
+      "meaning": "báo cáo không phù hợp"
+    },
+    {
+      "word": "root cause analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz əˈnæləsɪs/",
+      "meaning": "phân tích nguyên nhân gốc"
+    },
+    {
+      "word": "quality plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti plæn/",
+      "meaning": "kế hoạch chất lượng"
+    },
+    {
+      "word": "control chart",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtrəʊl tʃɑːt/",
+      "meaning": "biểu đồ kiểm soát"
+    },
+    {
+      "word": "process capability index",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌkeɪpəˈbɪləti ˈɪndeks/",
+      "meaning": "chỉ số khả năng quy trình"
+    },
+    {
+      "word": "supplier quality",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪə ˈkwɒləti/",
+      "meaning": "chất lượng nhà cung cấp"
+    },
+    {
+      "word": "inspection checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈspekʃən ˈtʃeklɪst/",
+      "meaning": "danh sách kiểm tra"
+    },
+    {
+      "word": "process improvement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ɪmˈpruːvmənt/",
+      "meaning": "cải tiến quy trình"
+    },
+    {
+      "word": "statistical process control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/stəˈtɪstɪkl ˈprəʊses kənˈtrəʊl/",
+      "meaning": "kiểm soát quy trình thống kê"
+    },
+    {
+      "word": "quality manual",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈmænjuəl/",
+      "meaning": "sổ tay chất lượng"
+    },
+    {
+      "word": "deviation management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌdiːviˈeɪʃən ˈmænɪdʒmənt/",
+      "meaning": "quản lý sai lệch"
+    },
+    {
+      "word": "quality gate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ɡeɪt/",
+      "meaning": "cổng kiểm soát chất lượng"
+    },
+    {
+      "word": "continuous improvement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtɪnjʊəs ɪmˈpruːvmənt/",
+      "meaning": "cải tiến liên tục"
+    },
+    {
+      "word": "quality KPI",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˌkeɪ piː ˈaɪ/",
+      "meaning": "chỉ số chất lượng"
+    },
+    {
+      "word": "audit trail",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdɪt treɪl/",
+      "meaning": "dấu vết kiểm toán"
+    },
+    {
+      "word": "quality review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti rɪˈvjuː/",
+      "meaning": "đánh giá chất lượng"
+    },
+    {
+      "word": "compliance verification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˌverɪfɪˈkeɪʃən/",
+      "meaning": "xác minh tuân thủ"
+    },
+    {
+      "word": "quality dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển chất lượng"
+    }
+  ]
+}

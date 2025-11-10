@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 82 - Advanced Manufacturing",
+  "words": [
+    {
+      "word": "industrial robotics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈdʌstriəl rəʊˈbɒtɪks/",
+      "meaning": "robot công nghiệp"
+    },
+    {
+      "word": "programmable logic controller",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊɡræməbl ˈlɒdʒɪk kənˈtrəʊlə/",
+      "meaning": "bộ điều khiển PLC"
+    },
+    {
+      "word": "human-machine interface",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌhjuːmən məˈʃiːn ˈɪntəfeɪs/",
+      "meaning": "giao diện người máy"
+    },
+    {
+      "word": "computer-integrated manufacturing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈpjuːtə ɪnˈteɡreɪtɪd ˌmænjuˈfæktʃərɪŋ/",
+      "meaning": "sản xuất tích hợp máy tính"
+    },
+    {
+      "word": "additive manufacturing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædɪtɪv ˌmænjuˈfæktʃərɪŋ/",
+      "meaning": "in 3D"
+    },
+    {
+      "word": "subtractive machining",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səbˈtræktɪv məˈʃiːnɪŋ/",
+      "meaning": "gia công cắt gọt"
+    },
+    {
+      "word": "quality tolerance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈtɒlərəns/",
+      "meaning": "dung sai chất lượng"
+    },
+    {
+      "word": "predictive maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˈmeɪntənəns/",
+      "meaning": "bảo trì dự đoán"
+    },
+    {
+      "word": "condition monitoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈdɪʃn ˈmɒnɪtərɪŋ/",
+      "meaning": "giám sát tình trạng"
+    },
+    {
+      "word": "digital twin",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl twɪn/",
+      "meaning": "bản sao số"
+    },
+    {
+      "word": "sensor calibration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsensə ˌkælɪˈbreɪʃn/",
+      "meaning": "hiệu chuẩn cảm biến"
+    },
+    {
+      "word": "machine uptime",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈʃiːn ˈʌptaɪm/",
+      "meaning": "thời gian máy hoạt động"
+    },
+    {
+      "word": "throughput rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈθruːpʊt reɪt/",
+      "meaning": "tốc độ thông lượng"
+    },
+    {
+      "word": "takt time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tækt taɪm/",
+      "meaning": "nhịp sản xuất"
+    },
+    {
+      "word": "lean manufacturing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːn ˌmænjuˈfæktʃərɪŋ/",
+      "meaning": "sản xuất tinh gọn"
+    },
+    {
+      "word": "kaizen event",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkaɪzen ɪˈvent/",
+      "meaning": "sự kiện cải tiến"
+    },
+    {
+      "word": "six sigma project",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌsɪks ˈsɪɡmə ˈprɒdʒekt/",
+      "meaning": "dự án sáu sigma"
+    },
+    {
+      "word": "capability analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkeɪpəˈbɪləti əˈnæləsɪs/",
+      "meaning": "phân tích khả năng quy trình"
+    },
+    {
+      "word": "supply kanban",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ ˈkænbæn/",
+      "meaning": "kanban cung ứng"
+    },
+    {
+      "word": "work-in-process inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌwɜːk ɪn ˈprəʊses ˈɪnvəntri/",
+      "meaning": "tồn kho dở dang"
+    },
+    {
+      "word": "changeover time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃeɪndʒəʊvə taɪm/",
+      "meaning": "thời gian chuyển đổi"
+    },
+    {
+      "word": "root cause analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz əˈnæləsɪs/",
+      "meaning": "phân tích nguyên nhân gốc"
+    },
+    {
+      "word": "corrective action plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈrektɪv ˈækʃn plæn/",
+      "meaning": "kế hoạch khắc phục"
+    },
+    {
+      "word": "safety interlock",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪfti ˈɪntəlɒk/",
+      "meaning": "khóa an toàn"
+    },
+    {
+      "word": "workforce reskilling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈwɜːkfɔːs ˌriːˈskɪlɪŋ/",
+      "meaning": "đào tạo lại lực lượng lao động"
+    }
+  ]
+}

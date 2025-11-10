@@ -520,6 +520,426 @@
             "description": "Thuật ngữ khu vực công, hoạch định chính sách và quản trị nhà nước.",
             "source": "content/en/vocabulary/toeic-day-70.json",
             "markdown": "content/en/vocabulary/toeic-day-70.md"
+          },
+          {
+            "id": "toeic-day-71",
+            "title": "TOEIC Day 71 - Cybersecurity Strategy",
+            "description": "Thuật ngữ chiến lược an ninh mạng, đánh giá lỗ hổng và phản ứng sự cố.",
+            "source": "content/en/vocabulary/toeic-day-71.json",
+            "markdown": "content/en/vocabulary/toeic-day-71.md"
+          },
+          {
+            "id": "toeic-day-72",
+            "title": "TOEIC Day 72 - Renewable Energy Projects",
+            "description": "Từ vựng dự án điện tái tạo, kết nối lưới và tài chính xanh.",
+            "source": "content/en/vocabulary/toeic-day-72.json",
+            "markdown": "content/en/vocabulary/toeic-day-72.md"
+          },
+          {
+            "id": "toeic-day-73",
+            "title": "TOEIC Day 73 - Pharmaceutical Operations",
+            "description": "Thuật ngữ sản xuất dược phẩm, hồ sơ lô và tuân thủ GMP.",
+            "source": "content/en/vocabulary/toeic-day-73.json",
+            "markdown": "content/en/vocabulary/toeic-day-73.md"
+          },
+          {
+            "id": "toeic-day-74",
+            "title": "TOEIC Day 74 - Film & Media Production",
+            "description": "Thuật ngữ sản xuất phim, quay hình và phát hành truyền thông.",
+            "source": "content/en/vocabulary/toeic-day-74.json",
+            "markdown": "content/en/vocabulary/toeic-day-74.md"
+          },
+          {
+            "id": "toeic-day-75",
+            "title": "TOEIC Day 75 - Corporate Legal & Risk",
+            "description": "Thuật ngữ pháp chế doanh nghiệp, tuân thủ và quản trị rủi ro.",
+            "source": "content/en/vocabulary/toeic-day-75.json",
+            "markdown": "content/en/vocabulary/toeic-day-75.md"
+          },
+          {
+            "id": "toeic-day-76",
+            "title": "TOEIC Day 76 - Humanitarian Aid & Relief",
+            "description": "Thuật ngữ cứu trợ nhân đạo, điều phối hiện trường và phục hồi.",
+            "source": "content/en/vocabulary/toeic-day-76.json",
+            "markdown": "content/en/vocabulary/toeic-day-76.md"
+          },
+          {
+            "id": "toeic-day-77",
+            "title": "TOEIC Day 77 - Research & Innovation",
+            "description": "Thuật ngữ nghiên cứu khoa học, thử nghiệm và chuyển giao công nghệ.",
+            "source": "content/en/vocabulary/toeic-day-77.json",
+            "markdown": "content/en/vocabulary/toeic-day-77.md"
+          },
+          {
+            "id": "toeic-day-78",
+            "title": "TOEIC Day 78 - Real Estate Development",
+            "description": "Từ vựng phát triển dự án bất động sản, xây dựng và bàn giao.",
+            "source": "content/en/vocabulary/toeic-day-78.json",
+            "markdown": "content/en/vocabulary/toeic-day-78.md"
+          },
+          {
+            "id": "toeic-day-79",
+            "title": "TOEIC Day 79 - Agribusiness & Food Supply",
+            "description": "Thuật ngữ nông nghiệp công nghệ, chế biến thực phẩm và xuất khẩu.",
+            "source": "content/en/vocabulary/toeic-day-79.json",
+            "markdown": "content/en/vocabulary/toeic-day-79.md"
+          },
+          {
+            "id": "toeic-day-80",
+            "title": "TOEIC Day 80 - Luxury Hospitality",
+            "description": "Thuật ngữ khách sạn hạng sang, chăm sóc khách và quản lý danh tiếng.",
+            "source": "content/en/vocabulary/toeic-day-80.json",
+            "markdown": "content/en/vocabulary/toeic-day-80.md"
+          },
+          {
+            "id": "toeic-day-81",
+            "title": "TOEIC Day 81 - E-commerce Optimization",
+            "description": "Thuật ngữ thương mại điện tử, tối ưu hành trình và phân tích dữ liệu.",
+            "source": "content/en/vocabulary/toeic-day-81.json",
+            "markdown": "content/en/vocabulary/toeic-day-81.md"
+          },
+          {
+            "id": "toeic-day-82",
+            "title": "TOEIC Day 82 - Advanced Manufacturing",
+            "description": "Từ vựng sản xuất thông minh, quản lý chất lượng và cải tiến quy trình.",
+            "source": "content/en/vocabulary/toeic-day-82.json",
+            "markdown": "content/en/vocabulary/toeic-day-82.md"
+          },
+          {
+            "id": "toeic-day-83",
+            "title": "TOEIC Day 83 - Financial Markets",
+            "description": "Thuật ngữ ngân hàng đầu tư, giao dịch và quản trị rủi ro vốn.",
+            "source": "content/en/vocabulary/toeic-day-83.json",
+            "markdown": "content/en/vocabulary/toeic-day-83.md"
+          },
+          {
+            "id": "toeic-day-84",
+            "title": "TOEIC Day 84 - Customer Success",
+            "description": "Thuật ngữ customer success, gia hạn hợp đồng và tối ưu giá trị.",
+            "source": "content/en/vocabulary/toeic-day-84.json",
+            "markdown": "content/en/vocabulary/toeic-day-84.md"
+          },
+          {
+            "id": "toeic-day-85",
+            "title": "TOEIC Day 85 - Cultural Events & Tourism",
+            "description": "Thuật ngữ lễ hội, tiếp thị điểm đến và quản lý khán giả.",
+            "source": "content/en/vocabulary/toeic-day-85.json",
+            "markdown": "content/en/vocabulary/toeic-day-85.md"
+          },
+          {
+            "id": "toeic-day-86",
+            "title": "TOEIC Day 86 - Environmental Conservation",
+            "description": "Thuật ngữ bảo tồn thiên nhiên, giảm phát thải và huy động cộng đồng.",
+            "source": "content/en/vocabulary/toeic-day-86.json",
+            "markdown": "content/en/vocabulary/toeic-day-86.md"
+          },
+          {
+            "id": "toeic-day-87",
+            "title": "TOEIC Day 87 - Supply Chain Resilience",
+            "description": "Thuật ngữ lập kế hoạch chuỗi cung ứng, đánh giá rủi ro và phục hồi.",
+            "source": "content/en/vocabulary/toeic-day-87.json",
+            "markdown": "content/en/vocabulary/toeic-day-87.md"
+          },
+          {
+            "id": "toeic-day-88",
+            "title": "TOEIC Day 88 - Startup Growth & Venture Capital",
+            "description": "Thuật ngữ phát triển sản phẩm, gọi vốn và quản trị nhà đầu tư.",
+            "source": "content/en/vocabulary/toeic-day-88.json",
+            "markdown": "content/en/vocabulary/toeic-day-88.md"
+          },
+          {
+            "id": "toeic-day-89",
+            "title": "TOEIC Day 89 - Smart City & Urban Tech",
+            "description": "Thuật ngữ hạ tầng thông minh, phân tích dữ liệu đô thị và an ninh số.",
+            "source": "content/en/vocabulary/toeic-day-89.json",
+            "markdown": "content/en/vocabulary/toeic-day-89.md"
+          },
+          {
+            "id": "toeic-day-90",
+            "title": "TOEIC Day 90 - Professional Coaching",
+            "description": "Thuật ngữ coaching, quản trị tài năng và phát triển năng lực lãnh đạo.",
+            "source": "content/en/vocabulary/toeic-day-90.json",
+            "markdown": "content/en/vocabulary/toeic-day-90.md"
+          },
+          {
+            "id": "toeic-day-91",
+            "title": "TOEIC Day 91 - Corporate Governance",
+            "description": "Củng cố thuật ngữ quản trị công ty, hội đồng quản trị và kiểm soát nội bộ.",
+            "source": "content/en/vocabulary/toeic-day-91.json",
+            "markdown": "content/en/vocabulary/toeic-day-91.md"
+          },
+          {
+            "id": "toeic-day-92",
+            "title": "TOEIC Day 92 - Sustainability Reporting",
+            "description": "Làm quen bộ chỉ số báo cáo bền vững và công bố tác động môi trường.",
+            "source": "content/en/vocabulary/toeic-day-92.json",
+            "markdown": "content/en/vocabulary/toeic-day-92.md"
+          },
+          {
+            "id": "toeic-day-93",
+            "title": "TOEIC Day 93 - Digital Marketing Analytics",
+            "description": "Bổ sung từ vựng đo lường chiến dịch số, kênh đa nền tảng và tối ưu chuyển đổi.",
+            "source": "content/en/vocabulary/toeic-day-93.json",
+            "markdown": "content/en/vocabulary/toeic-day-93.md"
+          },
+          {
+            "id": "toeic-day-94",
+            "title": "TOEIC Day 94 - Workplace Wellness",
+            "description": "Tăng cường từ vựng về sức khỏe nhân viên, chương trình phúc lợi và cân bằng công việc.",
+            "source": "content/en/vocabulary/toeic-day-94.json",
+            "markdown": "content/en/vocabulary/toeic-day-94.md"
+          },
+          {
+            "id": "toeic-day-95",
+            "title": "TOEIC Day 95 - Remote Leadership",
+            "description": "Trang bị từ vựng dẫn dắt đội ngũ phân tán, giao tiếp số và xây dựng văn hóa từ xa.",
+            "source": "content/en/vocabulary/toeic-day-95.json",
+            "markdown": "content/en/vocabulary/toeic-day-95.md"
+          },
+          {
+            "id": "toeic-day-96",
+            "title": "TOEIC Day 96 - Global Logistics",
+            "description": "Phát triển từ vựng chuỗi cung ứng quốc tế, vận tải đa phương thức và thủ tục hải quan.",
+            "source": "content/en/vocabulary/toeic-day-96.json",
+            "markdown": "content/en/vocabulary/toeic-day-96.md"
+          },
+          {
+            "id": "toeic-day-97",
+            "title": "TOEIC Day 97 - Renewable Energy Projects",
+            "description": "Bổ sung từ vựng phát triển dự án năng lượng tái tạo, tài chính xanh và quản lý công trường.",
+            "source": "content/en/vocabulary/toeic-day-97.json",
+            "markdown": "content/en/vocabulary/toeic-day-97.md"
+          },
+          {
+            "id": "toeic-day-98",
+            "title": "TOEIC Day 98 - Pharmaceutical Compliance",
+            "description": "Cung cấp từ vựng quản lý dược phẩm, tuân thủ GxP và giám sát thử nghiệm lâm sàng.",
+            "source": "content/en/vocabulary/toeic-day-98.json",
+            "markdown": "content/en/vocabulary/toeic-day-98.md"
+          },
+          {
+            "id": "toeic-day-99",
+            "title": "TOEIC Day 99 - Hospitality Service Excellence",
+            "description": "Rèn luyện từ vựng dịch vụ khách sạn, trải nghiệm khách hàng và tiêu chuẩn vận hành.",
+            "source": "content/en/vocabulary/toeic-day-99.json",
+            "markdown": "content/en/vocabulary/toeic-day-99.md"
+          },
+          {
+            "id": "toeic-day-100",
+            "title": "TOEIC Day 100 - Nonprofit Management",
+            "description": "Mở rộng từ vựng quản trị tổ chức phi lợi nhuận, gây quỹ và vận hành chương trình.",
+            "source": "content/en/vocabulary/toeic-day-100.json",
+            "markdown": "content/en/vocabulary/toeic-day-100.md"
+          },
+          {
+            "id": "toeic-day-101",
+            "title": "TOEIC Day 101 - Financial Technology",
+            "description": "Trang bị từ vựng fintech, thanh toán số và đổi mới dịch vụ tài chính.",
+            "source": "content/en/vocabulary/toeic-day-101.json",
+            "markdown": "content/en/vocabulary/toeic-day-101.md"
+          },
+          {
+            "id": "toeic-day-102",
+            "title": "TOEIC Day 102 - Data Privacy & Security",
+            "description": "Trang bị thuật ngữ bảo vệ dữ liệu, tuân thủ quyền riêng tư và phản ứng sự cố.",
+            "source": "content/en/vocabulary/toeic-day-102.json",
+            "markdown": "content/en/vocabulary/toeic-day-102.md"
+          },
+          {
+            "id": "toeic-day-103",
+            "title": "TOEIC Day 103 - Cloud Operations",
+            "description": "Làm quen từ vựng vận hành đám mây, tối ưu chi phí và giám sát dịch vụ.",
+            "source": "content/en/vocabulary/toeic-day-103.json",
+            "markdown": "content/en/vocabulary/toeic-day-103.md"
+          },
+          {
+            "id": "toeic-day-104",
+            "title": "TOEIC Day 104 - UX Research",
+            "description": "Bổ sung từ vựng nghiên cứu trải nghiệm người dùng, thử nghiệm sản phẩm và phân tích dữ liệu.",
+            "source": "content/en/vocabulary/toeic-day-104.json",
+            "markdown": "content/en/vocabulary/toeic-day-104.md"
+          },
+          {
+            "id": "toeic-day-105",
+            "title": "TOEIC Day 105 - Product Lifecycle Management",
+            "description": "Học từ vựng quản lý vòng đời sản phẩm, phối hợp chức năng chéo và tối ưu danh mục.",
+            "source": "content/en/vocabulary/toeic-day-105.json",
+            "markdown": "content/en/vocabulary/toeic-day-105.md"
+          },
+          {
+            "id": "toeic-day-106",
+            "title": "TOEIC Day 106 - Corporate Training",
+            "description": "Phát triển từ vựng thiết kế chương trình đào tạo nội bộ, đánh giá hiệu quả và quản lý học tập.",
+            "source": "content/en/vocabulary/toeic-day-106.json",
+            "markdown": "content/en/vocabulary/toeic-day-106.md"
+          },
+          {
+            "id": "toeic-day-107",
+            "title": "TOEIC Day 107 - Crisis Communication",
+            "description": "Tăng cường từ vựng truyền thông khủng hoảng, quản lý danh tiếng và điều phối thông điệp.",
+            "source": "content/en/vocabulary/toeic-day-107.json",
+            "markdown": "content/en/vocabulary/toeic-day-107.md"
+          },
+          {
+            "id": "toeic-day-108",
+            "title": "TOEIC Day 108 - Government Contracting",
+            "description": "Học từ vựng đấu thầu khu vực công, tuân thủ hợp đồng và quản lý nhà thầu.",
+            "source": "content/en/vocabulary/toeic-day-108.json",
+            "markdown": "content/en/vocabulary/toeic-day-108.md"
+          },
+          {
+            "id": "toeic-day-109",
+            "title": "TOEIC Day 109 - Manufacturing Automation",
+            "description": "Rèn luyện từ vựng tự động hóa sản xuất, robot công nghiệp và tối ưu dây chuyền.",
+            "source": "content/en/vocabulary/toeic-day-109.json",
+            "markdown": "content/en/vocabulary/toeic-day-109.md"
+          },
+          {
+            "id": "toeic-day-110",
+            "title": "TOEIC Day 110 - Retail Merchandising",
+            "description": "Củng cố từ vựng trưng bày bán lẻ, quản lý danh mục và tối ưu doanh số cửa hàng.",
+            "source": "content/en/vocabulary/toeic-day-110.json",
+            "markdown": "content/en/vocabulary/toeic-day-110.md"
+          },
+          {
+            "id": "toeic-day-111",
+            "title": "TOEIC Day 111 - Customer Journey Mapping",
+            "description": "Làm quen từ vựng hành trình khách hàng, trải nghiệm đa kênh và tối ưu điểm chạm.",
+            "source": "content/en/vocabulary/toeic-day-111.json",
+            "markdown": "content/en/vocabulary/toeic-day-111.md"
+          },
+          {
+            "id": "toeic-day-112",
+            "title": "TOEIC Day 112 - Investment Banking",
+            "description": "Cập nhật từ vựng ngân hàng đầu tư, giao dịch vốn và tư vấn doanh nghiệp.",
+            "source": "content/en/vocabulary/toeic-day-112.json",
+            "markdown": "content/en/vocabulary/toeic-day-112.md"
+          },
+          {
+            "id": "toeic-day-113",
+            "title": "TOEIC Day 113 - Legal Compliance",
+            "description": "Trang bị từ vựng tuân thủ pháp lý, quản trị chính sách và quản lý hồ sơ.",
+            "source": "content/en/vocabulary/toeic-day-113.json",
+            "markdown": "content/en/vocabulary/toeic-day-113.md"
+          },
+          {
+            "id": "toeic-day-114",
+            "title": "TOEIC Day 114 - Healthcare Administration",
+            "description": "Bổ sung từ vựng quản lý bệnh viện, điều phối dịch vụ và cải thiện trải nghiệm bệnh nhân.",
+            "source": "content/en/vocabulary/toeic-day-114.json",
+            "markdown": "content/en/vocabulary/toeic-day-114.md"
+          },
+          {
+            "id": "toeic-day-115",
+            "title": "TOEIC Day 115 - Cybersecurity Incident Response",
+            "description": "Trang bị từ vựng phản ứng sự cố an ninh mạng, điều tra kỹ thuật số và quản lý khủng hoảng.",
+            "source": "content/en/vocabulary/toeic-day-115.json",
+            "markdown": "content/en/vocabulary/toeic-day-115.md"
+          },
+          {
+            "id": "toeic-day-116",
+            "title": "TOEIC Day 116 - Supply Chain Analytics",
+            "description": "Phát triển từ vựng phân tích chuỗi cung ứng, dự báo nhu cầu và tối ưu tồn kho.",
+            "source": "content/en/vocabulary/toeic-day-116.json",
+            "markdown": "content/en/vocabulary/toeic-day-116.md"
+          },
+          {
+            "id": "toeic-day-117",
+            "title": "TOEIC Day 117 - Smart Manufacturing",
+            "description": "Bổ sung từ vựng nhà máy thông minh, cảm biến kết nối và phân tích thời gian thực.",
+            "source": "content/en/vocabulary/toeic-day-117.json",
+            "markdown": "content/en/vocabulary/toeic-day-117.md"
+          },
+          {
+            "id": "toeic-day-118",
+            "title": "TOEIC Day 118 - Green Building",
+            "description": "Mở rộng từ vựng công trình xanh, hiệu quả năng lượng và chứng nhận bền vững.",
+            "source": "content/en/vocabulary/toeic-day-118.json",
+            "markdown": "content/en/vocabulary/toeic-day-118.md"
+          },
+          {
+            "id": "toeic-day-119",
+            "title": "TOEIC Day 119 - Talent Acquisition",
+            "description": "Cập nhật từ vựng tuyển dụng chiến lược, trải nghiệm ứng viên và xây dựng thương hiệu tuyển dụng.",
+            "source": "content/en/vocabulary/toeic-day-119.json",
+            "markdown": "content/en/vocabulary/toeic-day-119.md"
+          },
+          {
+            "id": "toeic-day-120",
+            "title": "TOEIC Day 120 - Performance Management",
+            "description": "Tăng cường từ vựng quản trị hiệu suất, mục tiêu OKR và phản hồi phát triển.",
+            "source": "content/en/vocabulary/toeic-day-120.json",
+            "markdown": "content/en/vocabulary/toeic-day-120.md"
+          },
+          {
+            "id": "toeic-day-121",
+            "title": "TOEIC Day 121 - Entrepreneurship Strategy",
+            "description": "Phát triển từ vựng chiến lược khởi nghiệp, mô hình kinh doanh và mở rộng thị trường.",
+            "source": "content/en/vocabulary/toeic-day-121.json",
+            "markdown": "content/en/vocabulary/toeic-day-121.md"
+          },
+          {
+            "id": "toeic-day-122",
+            "title": "TOEIC Day 122 - Venture Capital Funding",
+            "description": "Trang bị từ vựng gọi vốn mạo hiểm, điều khoản đầu tư và quản trị sau rót vốn.",
+            "source": "content/en/vocabulary/toeic-day-122.json",
+            "markdown": "content/en/vocabulary/toeic-day-122.md"
+          },
+          {
+            "id": "toeic-day-123",
+            "title": "TOEIC Day 123 - Corporate Social Responsibility",
+            "description": "Bổ sung từ vựng trách nhiệm xã hội doanh nghiệp, chiến lược cộng đồng và báo cáo tác động.",
+            "source": "content/en/vocabulary/toeic-day-123.json",
+            "markdown": "content/en/vocabulary/toeic-day-123.md"
+          },
+          {
+            "id": "toeic-day-124",
+            "title": "TOEIC Day 124 - Public Relations",
+            "description": "Trang bị từ vựng quan hệ công chúng, chiến dịch truyền thông và quản lý hình ảnh.",
+            "source": "content/en/vocabulary/toeic-day-124.json",
+            "markdown": "content/en/vocabulary/toeic-day-124.md"
+          },
+          {
+            "id": "toeic-day-125",
+            "title": "TOEIC Day 125 - Business Intelligence",
+            "description": "Cập nhật từ vựng phân tích doanh nghiệp, dashboard chiến lược và ra quyết định dựa trên dữ liệu.",
+            "source": "content/en/vocabulary/toeic-day-125.json",
+            "markdown": "content/en/vocabulary/toeic-day-125.md"
+          },
+          {
+            "id": "toeic-day-126",
+            "title": "TOEIC Day 126 - Quality Assurance",
+            "description": "Rèn luyện từ vựng đảm bảo chất lượng, kiểm soát quy trình và cải tiến liên tục.",
+            "source": "content/en/vocabulary/toeic-day-126.json",
+            "markdown": "content/en/vocabulary/toeic-day-126.md"
+          },
+          {
+            "id": "toeic-day-127",
+            "title": "TOEIC Day 127 - Digital Transformation",
+            "description": "Mở rộng từ vựng chuyển đổi số, quản trị thay đổi và tối ưu quy trình số hóa.",
+            "source": "content/en/vocabulary/toeic-day-127.json",
+            "markdown": "content/en/vocabulary/toeic-day-127.md"
+          },
+          {
+            "id": "toeic-day-128",
+            "title": "TOEIC Day 128 - Knowledge Management",
+            "description": "Trang bị từ vựng quản lý tri thức, học tập tổ chức và lưu trữ tài liệu số.",
+            "source": "content/en/vocabulary/toeic-day-128.json",
+            "markdown": "content/en/vocabulary/toeic-day-128.md"
+          },
+          {
+            "id": "toeic-day-129",
+            "title": "TOEIC Day 129 - International Trade",
+            "description": "Củng cố từ vựng thương mại quốc tế, hiệp định và logistics xuyên biên giới.",
+            "source": "content/en/vocabulary/toeic-day-129.json",
+            "markdown": "content/en/vocabulary/toeic-day-129.md"
+          },
+          {
+            "id": "toeic-day-130",
+            "title": "TOEIC Day 130 - Innovation Management",
+            "description": "Tăng cường từ vựng quản trị đổi mới, danh mục ý tưởng và thử nghiệm công nghệ mới.",
+            "source": "content/en/vocabulary/toeic-day-130.json",
+            "markdown": "content/en/vocabulary/toeic-day-130.md"
           }
         ],
         "grammar": [
