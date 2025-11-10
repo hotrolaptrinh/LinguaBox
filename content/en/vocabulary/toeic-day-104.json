@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 104 - UX Research",
+  "words": [
+    {
+      "word": "user persona",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːzə pəˈsəʊnə/",
+      "meaning": "chân dung người dùng"
+    },
+    {
+      "word": "research brief",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ briːf/",
+      "meaning": "đề cương nghiên cứu"
+    },
+    {
+      "word": "moderated interview",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɒdəreɪtɪd ˈɪntəvjuː/",
+      "meaning": "phỏng vấn có điều phối"
+    },
+    {
+      "word": "unmoderated test",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ʌnˈmɒdəreɪtɪd test/",
+      "meaning": "kiểm thử không điều phối"
+    },
+    {
+      "word": "usability lab",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/juːzəˈbɪləti læb/",
+      "meaning": "phòng thí nghiệm khả dụng"
+    },
+    {
+      "word": "task completion rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tɑːsk kəmˈpliːʃən reɪt/",
+      "meaning": "tỉ lệ hoàn thành nhiệm vụ"
+    },
+    {
+      "word": "think-aloud protocol",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/θɪŋk əˈlaʊd ˈprəʊtəkɒl/",
+      "meaning": "phương pháp nghĩ thành lời"
+    },
+    {
+      "word": "journey mapping",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒɜːni ˈmæpɪŋ/",
+      "meaning": "vẽ bản đồ hành trình"
+    },
+    {
+      "word": "experience sampling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈsɑːmplɪŋ/",
+      "meaning": "lấy mẫu trải nghiệm"
+    },
+    {
+      "word": "diary study",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdaɪəri ˈstʌdi/",
+      "meaning": "nghiên cứu nhật ký"
+    },
+    {
+      "word": "field observation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fiːld ˌɒbzəˈveɪʃən/",
+      "meaning": "quan sát thực địa"
+    },
+    {
+      "word": "affinity diagram",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈfɪnəti ˈdaɪəɡræm/",
+      "meaning": "sơ đồ nhóm ý"
+    },
+    {
+      "word": "research synthesis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ˈsɪnθəsɪs/",
+      "meaning": "tổng hợp nghiên cứu"
+    },
+    {
+      "word": "design sprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈzaɪn sprɪnt/",
+      "meaning": "chu kỳ thiết kế nhanh"
+    },
+    {
+      "word": "concept testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒnsept ˈtestɪŋ/",
+      "meaning": "kiểm thử ý tưởng"
+    },
+    {
+      "word": "prototype fidelity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊtətaɪp fɪˈdelɪti/",
+      "meaning": "độ trung thực mẫu thử"
+    },
+    {
+      "word": "card sorting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɑːd ˈsɔːtɪŋ/",
+      "meaning": "phân loại thẻ"
+    },
+    {
+      "word": "research repository",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ rɪˈpɒzɪtəri/",
+      "meaning": "kho tư liệu nghiên cứu"
+    },
+    {
+      "word": "insight playback",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsaɪt ˈpleɪbæk/",
+      "meaning": "trình bày phát hiện"
+    },
+    {
+      "word": "participant screener",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɑːˈtɪsɪpənt ˈskriːnə/",
+      "meaning": "bảng sàng lọc người tham gia"
+    },
+    {
+      "word": "research ops",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ɒps/",
+      "meaning": "vận hành nghiên cứu"
+    },
+    {
+      "word": "experience insight",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈɪnsaɪt/",
+      "meaning": "thấu hiểu trải nghiệm"
+    },
+    {
+      "word": "usability metric",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/juːzəˈbɪləti ˈmetrɪk/",
+      "meaning": "thước đo khả dụng"
+    },
+    {
+      "word": "participant incentive",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɑːˈtɪsɪpənt ɪnˈsentɪv/",
+      "meaning": "phần thưởng cho người tham gia"
+    },
+    {
+      "word": "research readout",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ˈriːdaʊt/",
+      "meaning": "báo cáo kết quả nghiên cứu"
+    }
+  ]
+}

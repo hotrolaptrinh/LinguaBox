@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 105 - Product Lifecycle Management",
+  "words": [
+    {
+      "word": "product roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈrəʊdmæp/",
+      "meaning": "lộ trình sản phẩm"
+    },
+    {
+      "word": "lifecycle stage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪfsaɪkl steɪdʒ/",
+      "meaning": "giai đoạn vòng đời"
+    },
+    {
+      "word": "feature prioritization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə praɪˌɒrɪtaɪˈzeɪʃən/",
+      "meaning": "ưu tiên tính năng"
+    },
+    {
+      "word": "product backlog",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈbæklɒɡ/",
+      "meaning": "danh sách công việc sản phẩm"
+    },
+    {
+      "word": "release planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈliːs ˈplænɪŋ/",
+      "meaning": "kế hoạch phát hành"
+    },
+    {
+      "word": "minimum viable product",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/",
+      "meaning": "sản phẩm khả dụng tối thiểu"
+    },
+    {
+      "word": "product-market fit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈmɑːkɪt fɪt/",
+      "meaning": "phù hợp sản phẩm - thị trường"
+    },
+    {
+      "word": "beta release",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbiːtə rɪˈliːs/",
+      "meaning": "bản phát hành beta"
+    },
+    {
+      "word": "feature toggle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə ˈtɒɡl/",
+      "meaning": "công tắc tính năng"
+    },
+    {
+      "word": "launch readiness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɔːntʃ ˈredinəs/",
+      "meaning": "sẵn sàng ra mắt"
+    },
+    {
+      "word": "customer adoption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə əˈdɒpʃən/",
+      "meaning": "mức độ chấp nhận của khách"
+    },
+    {
+      "word": "usage analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːsɪdʒ ˌænəˈlɪtɪks/",
+      "meaning": "phân tích sử dụng"
+    },
+    {
+      "word": "product champion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈtʃæmpiən/",
+      "meaning": "người dẫn dắt sản phẩm"
+    },
+    {
+      "word": "stakeholder alignment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə əˈlaɪnmənt/",
+      "meaning": "đồng thuận với bên liên quan"
+    },
+    {
+      "word": "cross-functional squad",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/krɒs ˈfʌŋkʃənl skwɒd/",
+      "meaning": "nhóm chức năng chéo"
+    },
+    {
+      "word": "portfolio review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːtˈfəʊliəʊ rɪˈvjuː/",
+      "meaning": "đánh giá danh mục"
+    },
+    {
+      "word": "retirement plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtaɪəmənt plæn/",
+      "meaning": "kế hoạch kết thúc sản phẩm"
+    },
+    {
+      "word": "product analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˌænəˈlɪtɪks/",
+      "meaning": "phân tích sản phẩm"
+    },
+    {
+      "word": "growth experiment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrəʊθ ɪkˈsperɪmənt/",
+      "meaning": "thử nghiệm tăng trưởng"
+    },
+    {
+      "word": "voice of customer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/vɔɪs əv ˈkʌstəmə/",
+      "meaning": "tiếng nói khách hàng"
+    },
+    {
+      "word": "release retrospective",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈliːs ˌretrəˈspektɪv/",
+      "meaning": "hồi tưởng sau phát hành"
+    },
+    {
+      "word": "feature sunset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə ˈsʌnset/",
+      "meaning": "loại bỏ tính năng"
+    },
+    {
+      "word": "product telemetry",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt təˈlemɪtri/",
+      "meaning": "dữ liệu đo lường sản phẩm"
+    },
+    {
+      "word": "customer feedback loop",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈfiːdbæk luːp/",
+      "meaning": "vòng phản hồi khách hàng"
+    },
+    {
+      "word": "product lifecycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈlaɪsaɪkl/",
+      "meaning": "vòng đời sản phẩm"
+    }
+  ]
+}

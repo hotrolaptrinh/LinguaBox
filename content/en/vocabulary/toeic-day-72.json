@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 72 - Renewable Energy Projects",
+  "words": [
+    {
+      "word": "renewable portfolio",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl pɔːtˈfəʊliəʊ/",
+      "meaning": "danh mục năng lượng tái tạo"
+    },
+    {
+      "word": "grid interconnection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɪd ˌɪntəkəˈnekʃn/",
+      "meaning": "kết nối lưới điện"
+    },
+    {
+      "word": "power purchase agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaʊə ˈpɜːtʃəs əˈɡriːmənt/",
+      "meaning": "hợp đồng mua bán điện"
+    },
+    {
+      "word": "feed-in tariff",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌfiːd ɪn ˈtærɪf/",
+      "meaning": "biểu giá hỗ trợ"
+    },
+    {
+      "word": "capacity factor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈpæsəti ˈfæktə/",
+      "meaning": "hệ số công suất"
+    },
+    {
+      "word": "energy yield analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi jiːld əˈnæləsɪs/",
+      "meaning": "phân tích sản lượng"
+    },
+    {
+      "word": "storage integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstɔːrɪdʒ ˌɪntɪˈɡreɪʃn/",
+      "meaning": "tích hợp lưu trữ"
+    },
+    {
+      "word": "battery management system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbætəri ˈmænɪdʒmənt ˈsɪstəm/",
+      "meaning": "hệ thống quản lý pin"
+    },
+    {
+      "word": "lifecycle assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪfˌsaɪkl əˈsesmənt/",
+      "meaning": "đánh giá vòng đời"
+    },
+    {
+      "word": "environmental impact statement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˈɪmpækt ˈsteɪtmənt/",
+      "meaning": "báo cáo tác động môi trường"
+    },
+    {
+      "word": "feasibility study",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌfiːzəˈbɪləti ˈstʌdi/",
+      "meaning": "nghiên cứu khả thi"
+    },
+    {
+      "word": "stakeholder engagement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə ɪnˈɡeɪdʒmənt/",
+      "meaning": "tham vấn các bên liên quan"
+    },
+    {
+      "word": "permitting process",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɜːmɪtɪŋ ˈprəʊses/",
+      "meaning": "quy trình xin phép"
+    },
+    {
+      "word": "site assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/saɪt əˈsesmənt/",
+      "meaning": "đánh giá địa điểm"
+    },
+    {
+      "word": "transmission upgrade",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænzˈmɪʃn ˈʌpɡreɪd/",
+      "meaning": "nâng cấp truyền tải"
+    },
+    {
+      "word": "load forecasting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ləʊd ˈfɔːkɑːstɪŋ/",
+      "meaning": "dự báo phụ tải"
+    },
+    {
+      "word": "curtailment",
+      "partOfSpeech": "n.",
+      "ipa": "/kɜːˈteɪlmənt/",
+      "meaning": "cắt giảm phát điện"
+    },
+    {
+      "word": "grid parity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɪd ˈpærəti/",
+      "meaning": "điểm hòa lưới"
+    },
+    {
+      "word": "hybrid renewable system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhaɪbrɪd rɪˈnjuːəbl ˈsɪstəm/",
+      "meaning": "hệ thống tái tạo lai"
+    },
+    {
+      "word": "microgrid controller",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmaɪkrəʊɡrɪd kənˈtrəʊlə/",
+      "meaning": "bộ điều khiển vi lưới"
+    },
+    {
+      "word": "resilience plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈzɪliəns plæn/",
+      "meaning": "kế hoạch gia tăng khả năng chống chịu"
+    },
+    {
+      "word": "community benefit agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmjuːnəti ˈbenɪfɪt əˈɡriːmənt/",
+      "meaning": "thỏa thuận lợi ích cộng đồng"
+    },
+    {
+      "word": "commissioning",
+      "partOfSpeech": "n.",
+      "ipa": "/kəˈmɪʃənɪŋ/",
+      "meaning": "nghiệm thu đưa vào hoạt động"
+    },
+    {
+      "word": "decommissioning",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌdiːkəˈmɪʃənɪŋ/",
+      "meaning": "tháo dỡ ngừng vận hành"
+    },
+    {
+      "word": "green financing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡriːn faɪˈnænsɪŋ/",
+      "meaning": "tài chính xanh"
+    }
+  ]
+}

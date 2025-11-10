@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 103 - Cloud Operations",
+  "words": [
+    {
+      "word": "cloud footprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/klaʊd ˈfʊtprɪnt/",
+      "meaning": "quy mô hạ tầng đám mây"
+    },
+    {
+      "word": "infrastructure as code",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "meaning": "hạ tầng dưới dạng mã"
+    },
+    {
+      "word": "auto scaling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːtəʊ ˈskeɪlɪŋ/",
+      "meaning": "tự động mở rộng"
+    },
+    {
+      "word": "availability zone",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˌveɪləˈbɪləti zəʊn/",
+      "meaning": "vùng khả dụng"
+    },
+    {
+      "word": "disaster recovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈzɑːstə rɪˈkʌvəri/",
+      "meaning": "khôi phục thảm họa"
+    },
+    {
+      "word": "backup retention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbækʌp rɪˈtenʃən/",
+      "meaning": "lưu giữ sao lưu"
+    },
+    {
+      "word": "service level objective",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈlevl əbˈdʒektɪv/",
+      "meaning": "mục tiêu mức dịch vụ"
+    },
+    {
+      "word": "observability stack",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əbˌzɜːvəˈbɪləti stæk/",
+      "meaning": "bộ công cụ quan sát"
+    },
+    {
+      "word": "log aggregation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɒɡ ˌæɡrɪˈɡeɪʃən/",
+      "meaning": "tổng hợp nhật ký"
+    },
+    {
+      "word": "cost allocation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɒst ˌæləˈkeɪʃən/",
+      "meaning": "phân bổ chi phí"
+    },
+    {
+      "word": "tagging policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtæɡɪŋ ˈpɒlɪsi/",
+      "meaning": "chính sách gắn thẻ"
+    },
+    {
+      "word": "resource quota",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɔːs ˈkwəʊtə/",
+      "meaning": "hạn ngạch tài nguyên"
+    },
+    {
+      "word": "serverless function",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvələs ˈfʌŋkʃən/",
+      "meaning": "hàm không máy chủ"
+    },
+    {
+      "word": "container registry",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈteɪnə ˈredʒɪstri/",
+      "meaning": "kho chứa container"
+    },
+    {
+      "word": "deployment pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈplɔɪmənt ˈpaɪplaɪn/",
+      "meaning": "chuỗi triển khai"
+    },
+    {
+      "word": "blue-green deployment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bluː ɡriːn dɪˈplɔɪmənt/",
+      "meaning": "triển khai xanh-lam"
+    },
+    {
+      "word": "security group",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ɡruːp/",
+      "meaning": "nhóm bảo mật"
+    },
+    {
+      "word": "network latency",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnetwɜːk ˈleɪtənsi/",
+      "meaning": "độ trễ mạng"
+    },
+    {
+      "word": "service catalog",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈkætəlɒɡ/",
+      "meaning": "danh mục dịch vụ"
+    },
+    {
+      "word": "infrastructure drift",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnfrəstrʌktʃə drɪft/",
+      "meaning": "trôi hạ tầng"
+    },
+    {
+      "word": "patch management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pætʃ ˈmænɪdʒmənt/",
+      "meaning": "quản lý bản vá"
+    },
+    {
+      "word": "platform engineering",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈplætfɔːm ˌendʒɪˈnɪərɪŋ/",
+      "meaning": "kỹ thuật nền tảng"
+    },
+    {
+      "word": "capacity planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈpæsəti ˈplænɪŋ/",
+      "meaning": "hoạch định năng lực"
+    },
+    {
+      "word": "service health",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs helθ/",
+      "meaning": "tình trạng dịch vụ"
+    },
+    {
+      "word": "runbook automation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrʌnbʊk ˌɔːtəˈmeɪʃən/",
+      "meaning": "tự động hóa tài liệu vận hành"
+    }
+  ]
+}

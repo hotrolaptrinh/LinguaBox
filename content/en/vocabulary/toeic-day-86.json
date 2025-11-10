@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 86 - Environmental Conservation",
+  "words": [
+    {
+      "word": "biodiversity survey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti ˈsɜːveɪ/",
+      "meaning": "khảo sát đa dạng sinh học"
+    },
+    {
+      "word": "habitat restoration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhæbɪtæt ˌrestəˈreɪʃn/",
+      "meaning": "phục hồi sinh cảnh"
+    },
+    {
+      "word": "conservation easement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkɒnsəˈveɪʃn ˈiːzmənt/",
+      "meaning": "quyền sử dụng bảo tồn"
+    },
+    {
+      "word": "reforestation drive",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌriːˌfɒrɪˈsteɪʃn draɪv/",
+      "meaning": "chiến dịch trồng rừng"
+    },
+    {
+      "word": "carbon footprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "dấu chân carbon"
+    },
+    {
+      "word": "greenhouse gas inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡriːnhaʊs ɡæs ˈɪnvəntri/",
+      "meaning": "kiểm kê khí nhà kính"
+    },
+    {
+      "word": "emissions baseline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈmɪʃnz ˈbeɪslaɪn/",
+      "meaning": "đường cơ sở phát thải"
+    },
+    {
+      "word": "mitigation pathway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmɪtɪˈɡeɪʃn ˈpɑːθweɪ/",
+      "meaning": "lộ trình giảm thiểu"
+    },
+    {
+      "word": "climate adaptation plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklaɪmət ˌædæpˈteɪʃn plæn/",
+      "meaning": "kế hoạch thích ứng khí hậu"
+    },
+    {
+      "word": "resilience indicator",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈzɪliəns ˈɪndɪkeɪtə/",
+      "meaning": "chỉ số khả năng chống chịu"
+    },
+    {
+      "word": "ecosystem service",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈiːkəʊsɪstəm ˈsɜːvɪs/",
+      "meaning": "dịch vụ hệ sinh thái"
+    },
+    {
+      "word": "protected area",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈtektɪd ˈeəriə/",
+      "meaning": "khu bảo vệ"
+    },
+    {
+      "word": "wildlife corridor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈwaɪldlaɪf ˈkɒrɪdɔː/",
+      "meaning": "hành lang động vật hoang dã"
+    },
+    {
+      "word": "invasive species control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈveɪsɪv ˈspiːʃiːz kənˈtrəʊl/",
+      "meaning": "kiểm soát loài xâm lấn"
+    },
+    {
+      "word": "community ranger",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmjuːnəti ˈreɪndʒə/",
+      "meaning": "kiểm lâm cộng đồng"
+    },
+    {
+      "word": "environmental education",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˌedʒʊˈkeɪʃn/",
+      "meaning": "giáo dục môi trường"
+    },
+    {
+      "word": "circular economy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːkjələ ɪˈkɒnəmi/",
+      "meaning": "kinh tế tuần hoàn"
+    },
+    {
+      "word": "waste diversion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/weɪst daɪˈvɜːʃn/",
+      "meaning": "chuyển hướng chất thải"
+    },
+    {
+      "word": "renewable offset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl ˈɒfset/",
+      "meaning": "bù đắp tái tạo"
+    },
+    {
+      "word": "climate finance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklaɪmət ˈfaɪnæns/",
+      "meaning": "tài chính khí hậu"
+    },
+    {
+      "word": "policy advocacy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɒləsi ˈædvəkəsi/",
+      "meaning": "vận động chính sách"
+    },
+    {
+      "word": "stakeholder coalition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə ˌkəʊəˈlɪʃn/",
+      "meaning": "liên minh các bên"
+    },
+    {
+      "word": "monitoring framework",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɒnɪtərɪŋ ˈfreɪmwɜːk/",
+      "meaning": "khung giám sát"
+    },
+    {
+      "word": "impact reporting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪmpækt rɪˈpɔːtɪŋ/",
+      "meaning": "báo cáo tác động"
+    },
+    {
+      "word": "sustainable livelihood",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈsteɪnəbl ˈlaɪvlihʊd/",
+      "meaning": "sinh kế bền vững"
+    }
+  ]
+}

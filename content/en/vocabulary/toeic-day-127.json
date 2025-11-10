@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 127 - Digital Transformation",
+  "words": [
+    {
+      "word": "digital transformation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˌtrænsfəˈmeɪʃən/",
+      "meaning": "chuyển đổi số"
+    },
+    {
+      "word": "change management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tʃeɪndʒ ˈmænɪdʒmənt/",
+      "meaning": "quản lý thay đổi"
+    },
+    {
+      "word": "digital adoption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl əˈdɒpʃən/",
+      "meaning": "mức độ ứng dụng số"
+    },
+    {
+      "word": "process digitization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌdɪdʒɪtaɪˈzeɪʃən/",
+      "meaning": "số hóa quy trình"
+    },
+    {
+      "word": "innovation lab",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃən læb/",
+      "meaning": "phòng thí nghiệm đổi mới"
+    },
+    {
+      "word": "digital maturity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl məˈtʃʊərəti/",
+      "meaning": "độ trưởng thành số"
+    },
+    {
+      "word": "experience reimagination",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˌriːɪˌmædʒɪˈneɪʃən/",
+      "meaning": "tái thiết trải nghiệm"
+    },
+    {
+      "word": "cloud migration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/klaʊd maɪˈɡreɪʃən/",
+      "meaning": "di chuyển lên đám mây"
+    },
+    {
+      "word": "legacy modernization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈleɡəsi ˌmɒdənaɪˈzeɪʃən/",
+      "meaning": "hiện đại hóa hệ thống cũ"
+    },
+    {
+      "word": "digital governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈɡʌvənəns/",
+      "meaning": "quản trị số"
+    },
+    {
+      "word": "automation platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɔːtəˈmeɪʃən ˈplætfɔːm/",
+      "meaning": "nền tảng tự động hóa"
+    },
+    {
+      "word": "customer journey redesign",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni ˌriːdɪˈzaɪn/",
+      "meaning": "thiết kế lại hành trình khách hàng"
+    },
+    {
+      "word": "digital KPI",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˌkeɪ piː ˈaɪ/",
+      "meaning": "chỉ số số hóa"
+    },
+    {
+      "word": "data architecture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈɑːkɪtektʃə/",
+      "meaning": "kiến trúc dữ liệu"
+    },
+    {
+      "word": "platform integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈplætfɔːm ˌɪntɪˈɡreɪʃən/",
+      "meaning": "tích hợp nền tảng"
+    },
+    {
+      "word": "digital upskilling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈʌpskɪlɪŋ/",
+      "meaning": "nâng cao kỹ năng số"
+    },
+    {
+      "word": "digital twin",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl twɪn/",
+      "meaning": "bản sao số"
+    },
+    {
+      "word": "experience analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˌænəˈlɪtɪks/",
+      "meaning": "phân tích trải nghiệm"
+    },
+    {
+      "word": "data democratization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə dɪˌmɒkrətaɪˈzeɪʃən/",
+      "meaning": "dân chủ hóa dữ liệu"
+    },
+    {
+      "word": "digital portfolio",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl pɔːtˈfəʊliəʊ/",
+      "meaning": "danh mục số"
+    },
+    {
+      "word": "transformation office",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌtrænsfəˈmeɪʃən ˈɒfɪs/",
+      "meaning": "văn phòng chuyển đổi"
+    },
+    {
+      "word": "agile at scale",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædʒaɪl ət skeɪl/",
+      "meaning": "mở rộng phương pháp agile"
+    },
+    {
+      "word": "digital mindset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈmaɪndset/",
+      "meaning": "tư duy số"
+    },
+    {
+      "word": "transformation roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌtrænsfəˈmeɪʃən ˈrəʊdmæp/",
+      "meaning": "lộ trình chuyển đổi"
+    },
+    {
+      "word": "adoption dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈdɒpʃən ˈdæʃbɔːd/",
+      "meaning": "bảng theo dõi mức độ áp dụng"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 98 - Pharmaceutical Compliance",
+  "words": [
+    {
+      "word": "regulatory submission",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjələtəri səbˈmɪʃən/",
+      "meaning": "hồ sơ nộp cơ quan quản lý"
+    },
+    {
+      "word": "clinical trial",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈtraɪəl/",
+      "meaning": "thử nghiệm lâm sàng"
+    },
+    {
+      "word": "Good Manufacturing Practice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡʊd ˌmænjuˈfæktʃərɪŋ ˈpræktɪs/",
+      "meaning": "thực hành sản xuất tốt"
+    },
+    {
+      "word": "quality assurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti əˈʃʊərəns/",
+      "meaning": "đảm bảo chất lượng"
+    },
+    {
+      "word": "pharmacovigilance",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌfɑːməkəʊˈvɪdʒɪləns/",
+      "meaning": "giám sát dược"
+    },
+    {
+      "word": "adverse event",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædvɜːs ɪˈvent/",
+      "meaning": "biến cố bất lợi"
+    },
+    {
+      "word": "standard operating procedure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstændəd ˈɒpəreɪtɪŋ prəˈsiːdʒə/",
+      "meaning": "quy trình vận hành chuẩn"
+    },
+    {
+      "word": "batch record",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bætʃ ˈrekɔːd/",
+      "meaning": "hồ sơ lô sản xuất"
+    },
+    {
+      "word": "validation protocol",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvælɪˈdeɪʃən ˈprəʊtəkɒl/",
+      "meaning": "quy trình thẩm định"
+    },
+    {
+      "word": "corrective action",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈrektɪv ˈækʃən/",
+      "meaning": "hành động khắc phục"
+    },
+    {
+      "word": "preventive action",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈventɪv ˈækʃən/",
+      "meaning": "hành động phòng ngừa"
+    },
+    {
+      "word": "Good Clinical Practice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡʊd ˈklɪnɪkl ˈpræktɪs/",
+      "meaning": "thực hành lâm sàng tốt"
+    },
+    {
+      "word": "inspection readiness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈspekʃən ˈredinəs/",
+      "meaning": "sẵn sàng thanh tra"
+    },
+    {
+      "word": "quality management system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈmænɪdʒmənt ˈsɪstəm/",
+      "meaning": "hệ thống quản lý chất lượng"
+    },
+    {
+      "word": "record retention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrekɔːd rɪˈtenʃən/",
+      "meaning": "lưu trữ hồ sơ"
+    },
+    {
+      "word": "product release",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt rɪˈliːs/",
+      "meaning": "phê duyệt xuất xưởng"
+    },
+    {
+      "word": "compliance audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˈɔːdɪt/",
+      "meaning": "kiểm toán tuân thủ"
+    },
+    {
+      "word": "training record",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtreɪnɪŋ ˈrekɔːd/",
+      "meaning": "hồ sơ đào tạo"
+    },
+    {
+      "word": "change control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tʃeɪndʒ kənˈtrəʊl/",
+      "meaning": "kiểm soát thay đổi"
+    },
+    {
+      "word": "quality deviation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˌdiːviˈeɪʃən/",
+      "meaning": "sai lệch chất lượng"
+    },
+    {
+      "word": "supplier qualification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪə ˌkwɒlɪfɪˈkeɪʃən/",
+      "meaning": "thẩm định nhà cung cấp"
+    },
+    {
+      "word": "clinical monitoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈmɒnɪtərɪŋ/",
+      "meaning": "giám sát lâm sàng"
+    },
+    {
+      "word": "data integrity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ɪnˈteɡrəti/",
+      "meaning": "tính toàn vẹn dữ liệu"
+    },
+    {
+      "word": "risk-based approach",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk beɪst əˈprəʊtʃ/",
+      "meaning": "cách tiếp cận dựa trên rủi ro"
+    },
+    {
+      "word": "regulatory inspection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjələtəri ɪnˈspekʃən/",
+      "meaning": "thanh tra của cơ quan quản lý"
+    }
+  ]
+}

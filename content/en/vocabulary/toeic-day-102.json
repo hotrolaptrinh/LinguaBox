@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 102 - Data Privacy & Security",
+  "words": [
+    {
+      "word": "personal data",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɜːsənl ˈdeɪtə/",
+      "meaning": "dữ liệu cá nhân"
+    },
+    {
+      "word": "data protection officer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə prəˈtekʃən ˈɒfɪsə/",
+      "meaning": "nhân viên bảo vệ dữ liệu"
+    },
+    {
+      "word": "privacy notice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpraɪvəsi ˈnəʊtɪs/",
+      "meaning": "thông báo quyền riêng tư"
+    },
+    {
+      "word": "consent management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈsent ˈmænɪdʒmənt/",
+      "meaning": "quản lý chấp thuận"
+    },
+    {
+      "word": "data minimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˌmɪnɪmaɪˈzeɪʃən/",
+      "meaning": "tối giản dữ liệu"
+    },
+    {
+      "word": "lawful basis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɔːfəl ˈbeɪsɪs/",
+      "meaning": "cơ sở pháp lý"
+    },
+    {
+      "word": "data processing agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈprəʊsesɪŋ əˈɡriːmənt/",
+      "meaning": "thỏa thuận xử lý dữ liệu"
+    },
+    {
+      "word": "access control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈækses kənˈtrəʊl/",
+      "meaning": "kiểm soát truy cập"
+    },
+    {
+      "word": "encryption key",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈkrɪpʃən kiː/",
+      "meaning": "khóa mã hóa"
+    },
+    {
+      "word": "multi-factor authentication",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌmʌlti ˈfæktə ɔːˌθentɪˈkeɪʃən/",
+      "meaning": "xác thực đa yếu tố"
+    },
+    {
+      "word": "security posture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈpɒstʃə/",
+      "meaning": "tư thế an ninh"
+    },
+    {
+      "word": "breach notification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/briːtʃ ˌnəʊtɪfɪˈkeɪʃən/",
+      "meaning": "thông báo vi phạm"
+    },
+    {
+      "word": "incident response plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt rɪˈspɒns plæn/",
+      "meaning": "kế hoạch ứng phó sự cố"
+    },
+    {
+      "word": "data residency",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈrezɪdənsi/",
+      "meaning": "lưu trú dữ liệu"
+    },
+    {
+      "word": "security awareness training",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti əˈweənəs ˈtreɪnɪŋ/",
+      "meaning": "đào tạo nhận thức an ninh"
+    },
+    {
+      "word": "privacy impact assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpraɪvəsi ˈɪmpækt əˈsesmənt/",
+      "meaning": "đánh giá tác động quyền riêng tư"
+    },
+    {
+      "word": "data retention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə rɪˈtenʃən/",
+      "meaning": "lưu trữ dữ liệu"
+    },
+    {
+      "word": "right to erasure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/raɪt tuː ɪˈreɪʒə/",
+      "meaning": "quyền được xóa"
+    },
+    {
+      "word": "third-party risk",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/θɜːd ˈpɑːti rɪsk/",
+      "meaning": "rủi ro bên thứ ba"
+    },
+    {
+      "word": "security audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈɔːdɪt/",
+      "meaning": "kiểm toán an ninh"
+    },
+    {
+      "word": "data anonymization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə əˌnɒnɪmaɪˈzeɪʃən/",
+      "meaning": "ẩn danh dữ liệu"
+    },
+    {
+      "word": "privacy by design",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpraɪvəsi baɪ dɪˈzaɪn/",
+      "meaning": "thiết kế bảo mật"
+    },
+    {
+      "word": "security incident",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈɪnsɪdənt/",
+      "meaning": "sự cố an ninh"
+    },
+    {
+      "word": "vulnerability scan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvʌlnərəˈbɪləti skæn/",
+      "meaning": "quét lỗ hổng"
+    },
+    {
+      "word": "data governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈɡʌvənəns/",
+      "meaning": "quản trị dữ liệu"
+    }
+  ]
+}

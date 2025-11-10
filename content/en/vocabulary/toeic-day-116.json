@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 116 - Supply Chain Analytics",
+  "words": [
+    {
+      "word": "demand sensing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˈsensɪŋ/",
+      "meaning": "nhận biết nhu cầu"
+    },
+    {
+      "word": "forecast accuracy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfɔːkɑːst ˈækjʊrəsi/",
+      "meaning": "độ chính xác dự báo"
+    },
+    {
+      "word": "inventory health",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri helθ/",
+      "meaning": "tình trạng tồn kho"
+    },
+    {
+      "word": "network optimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnetwɜːk ˌɒptɪmaɪˈzeɪʃən/",
+      "meaning": "tối ưu mạng lưới"
+    },
+    {
+      "word": "fill rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɪl reɪt/",
+      "meaning": "tỷ lệ đáp ứng đơn hàng"
+    },
+    {
+      "word": "order cycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdə ˈsaɪkl/",
+      "meaning": "chu kỳ đặt hàng"
+    },
+    {
+      "word": "demand variability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˌveərɪəˈbɪləti/",
+      "meaning": "biến động nhu cầu"
+    },
+    {
+      "word": "inventory turnover",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˈtɜːnəʊvə/",
+      "meaning": "vòng quay tồn kho"
+    },
+    {
+      "word": "backorder rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbækˌɔːdə reɪt/",
+      "meaning": "tỷ lệ đơn hàng nợ"
+    },
+    {
+      "word": "service level",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈlevl/",
+      "meaning": "mức dịch vụ"
+    },
+    {
+      "word": "demand shaping",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˈʃeɪpɪŋ/",
+      "meaning": "định hình nhu cầu"
+    },
+    {
+      "word": "inventory segmentation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˌseɡmenˈteɪʃən/",
+      "meaning": "phân khúc tồn kho"
+    },
+    {
+      "word": "network flow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnetwɜːk fləʊ/",
+      "meaning": "luồng mạng lưới"
+    },
+    {
+      "word": "transportation analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌtrænspɔːˈteɪʃən ˌænəˈlɪtɪks/",
+      "meaning": "phân tích vận tải"
+    },
+    {
+      "word": "cost-to-serve",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɒst tə sɜːv/",
+      "meaning": "chi phí phục vụ"
+    },
+    {
+      "word": "order promising",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdə ˈprɒmɪsɪŋ/",
+      "meaning": "hứa hẹn giao hàng"
+    },
+    {
+      "word": "safety stock",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪfti stɒk/",
+      "meaning": "tồn kho an toàn"
+    },
+    {
+      "word": "supply variability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ ˌveərɪəˈbɪləti/",
+      "meaning": "biến động nguồn cung"
+    },
+    {
+      "word": "inventory dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển tồn kho"
+    },
+    {
+      "word": "distribution footprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌdɪstrɪˈbjuːʃən ˈfʊtprɪnt/",
+      "meaning": "quy mô mạng phân phối"
+    },
+    {
+      "word": "order prioritization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdə praɪˌɒrɪtaɪˈzeɪʃən/",
+      "meaning": "ưu tiên đơn hàng"
+    },
+    {
+      "word": "inventory optimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˌɒptɪmaɪˈzeɪʃən/",
+      "meaning": "tối ưu tồn kho"
+    },
+    {
+      "word": "supply planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ ˈplænɪŋ/",
+      "meaning": "hoạch định nguồn cung"
+    },
+    {
+      "word": "demand planner",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˈplænə/",
+      "meaning": "chuyên viên hoạch định nhu cầu"
+    },
+    {
+      "word": "inventory policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˈpɒlɪsi/",
+      "meaning": "chính sách tồn kho"
+    }
+  ]
+}

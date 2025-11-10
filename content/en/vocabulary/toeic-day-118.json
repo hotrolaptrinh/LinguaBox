@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 118 - Green Building",
+  "words": [
+    {
+      "word": "green certification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡriːn ˌsɜːtɪfɪˈkeɪʃən/",
+      "meaning": "chứng nhận xanh"
+    },
+    {
+      "word": "energy efficiency",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ɪˈfɪʃənsi/",
+      "meaning": "hiệu quả năng lượng"
+    },
+    {
+      "word": "LEED rating",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːd ˈreɪtɪŋ/",
+      "meaning": "xếp hạng LEED"
+    },
+    {
+      "word": "building envelope",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪldɪŋ ˈenvələʊp/",
+      "meaning": "vỏ công trình"
+    },
+    {
+      "word": "daylighting design",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪlaɪtɪŋ dɪˈzaɪn/",
+      "meaning": "thiết kế chiếu sáng tự nhiên"
+    },
+    {
+      "word": "indoor air quality",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪndɔːr eə ˈkwɒləti/",
+      "meaning": "chất lượng không khí trong nhà"
+    },
+    {
+      "word": "water reuse",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈwɔːtə ˌriːˈjuːz/",
+      "meaning": "tái sử dụng nước"
+    },
+    {
+      "word": "sustainable materials",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈsteɪnəbl məˈtɪəriəlz/",
+      "meaning": "vật liệu bền vững"
+    },
+    {
+      "word": "energy modeling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ˈmɒdəlɪŋ/",
+      "meaning": "mô phỏng năng lượng"
+    },
+    {
+      "word": "thermal comfort",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈθɜːml ˈkʌmfət/",
+      "meaning": "tiện nghi nhiệt"
+    },
+    {
+      "word": "renewable energy system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl ˈenədʒi ˈsɪstəm/",
+      "meaning": "hệ thống năng lượng tái tạo"
+    },
+    {
+      "word": "rainwater harvesting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɪnwɔːtə ˈhɑːvɪstɪŋ/",
+      "meaning": "thu nước mưa"
+    },
+    {
+      "word": "energy recovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi rɪˈkʌvəri/",
+      "meaning": "thu hồi năng lượng"
+    },
+    {
+      "word": "green roof",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡriːn ruːf/",
+      "meaning": "mái xanh"
+    },
+    {
+      "word": "life-cycle assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪf ˈsaɪkl əˈsesmənt/",
+      "meaning": "đánh giá vòng đời"
+    },
+    {
+      "word": "building automation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪldɪŋ ˌɔːtəˈmeɪʃən/",
+      "meaning": "tự động hóa tòa nhà"
+    },
+    {
+      "word": "energy benchmarking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ˈbentʃmɑːkɪŋ/",
+      "meaning": "chuẩn đối sánh năng lượng"
+    },
+    {
+      "word": "waste diversion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/weɪst daɪˈvɜːʃən/",
+      "meaning": "chuyển hướng chất thải"
+    },
+    {
+      "word": "commissioning plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmɪʃənɪŋ plæn/",
+      "meaning": "kế hoạch kiểm định vận hành"
+    },
+    {
+      "word": "building performance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪldɪŋ pəˈfɔːməns/",
+      "meaning": "hiệu suất công trình"
+    },
+    {
+      "word": "sustainability scorecard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˌsteɪnəˈbɪləti ˈskɔːkɑːd/",
+      "meaning": "thẻ điểm bền vững"
+    },
+    {
+      "word": "ventilation rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌventɪˈleɪʃən reɪt/",
+      "meaning": "tốc độ thông gió"
+    },
+    {
+      "word": "carbon footprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "dấu chân carbon"
+    },
+    {
+      "word": "building performance simulation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪldɪŋ pəˈfɔːməns ˌsɪmjʊˈleɪʃən/",
+      "meaning": "mô phỏng hiệu suất công trình"
+    },
+    {
+      "word": "sustainable operations",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈsteɪnəbl ˌɒpəˈreɪʃənz/",
+      "meaning": "vận hành bền vững"
+    }
+  ]
+}

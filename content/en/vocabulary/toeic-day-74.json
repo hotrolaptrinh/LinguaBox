@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 74 - Film & Media Production",
+  "words": [
+    {
+      "word": "script treatment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/skrɪpt ˈtriːtmənt/",
+      "meaning": "đề cương kịch bản"
+    },
+    {
+      "word": "storyboard artist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstɔːribɔːd ˈɑːtɪst/",
+      "meaning": "họa sĩ storyboard"
+    },
+    {
+      "word": "casting call",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːstɪŋ kɔːl/",
+      "meaning": "buổi tuyển vai"
+    },
+    {
+      "word": "location scouting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ləʊˈkeɪʃn ˈskaʊtɪŋ/",
+      "meaning": "khảo sát bối cảnh"
+    },
+    {
+      "word": "production schedule",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃn ˈskedʒuːl/",
+      "meaning": "lịch sản xuất"
+    },
+    {
+      "word": "call sheet",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɔːl ʃiːt/",
+      "meaning": "bảng phân công cảnh quay"
+    },
+    {
+      "word": "prop master",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɒp ˈmɑːstə/",
+      "meaning": "quản lý đạo cụ"
+    },
+    {
+      "word": "costume fitting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒstjuːm ˈfɪtɪŋ/",
+      "meaning": "thử trang phục"
+    },
+    {
+      "word": "lighting rig",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪtɪŋ rɪɡ/",
+      "meaning": "giàn đèn"
+    },
+    {
+      "word": "soundstage",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈsaʊndsteɪdʒ/",
+      "meaning": "phòng thu âm thanh"
+    },
+    {
+      "word": "boom microphone",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/buːm ˈmaɪkrəfəʊn/",
+      "meaning": "micro boom"
+    },
+    {
+      "word": "dolly track",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɒli træk/",
+      "meaning": "đường ray dolly"
+    },
+    {
+      "word": "continuity error",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkɒntɪˈnjuːəti ˈerə/",
+      "meaning": "lỗi liên tục"
+    },
+    {
+      "word": "director's cut",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈrektəz kʌt/",
+      "meaning": "bản dựng đạo diễn"
+    },
+    {
+      "word": "post-production",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌpəʊst prəˈdʌkʃn/",
+      "meaning": "hậu kỳ"
+    },
+    {
+      "word": "color grading",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌlə ˈɡreɪdɪŋ/",
+      "meaning": "chỉnh màu"
+    },
+    {
+      "word": "visual effects supervisor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvɪʒuəl ɪˈfekts ˈsuːpəvaɪzə/",
+      "meaning": "giám sát hiệu ứng hình ảnh"
+    },
+    {
+      "word": "compositing",
+      "partOfSpeech": "n.",
+      "ipa": "/kəmˈpɒzɪtɪŋ/",
+      "meaning": "dựng chồng hình ảnh"
+    },
+    {
+      "word": "motion capture",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈməʊʃn ˈkæptʃə/",
+      "meaning": "ghi hình chuyển động"
+    },
+    {
+      "word": "ADR session",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌeɪ diː ˈɑː ˈseʃn/",
+      "meaning": "buổi lồng tiếng ADR"
+    },
+    {
+      "word": "Foley artist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfəʊli ˈɑːtɪst/",
+      "meaning": "người tạo hiệu ứng âm thanh"
+    },
+    {
+      "word": "soundtrack licensing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsaʊndtræk ˈlaɪsnsɪŋ/",
+      "meaning": "cấp phép nhạc phim"
+    },
+    {
+      "word": "release window",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈliːs ˈwɪndəʊ/",
+      "meaning": "khung phát hành"
+    },
+    {
+      "word": "distribution deal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn diːl/",
+      "meaning": "thỏa thuận phát hành"
+    },
+    {
+      "word": "box office projection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bɒks ˈɒfɪs prəˈdʒekʃn/",
+      "meaning": "dự báo doanh thu phòng vé"
+    }
+  ]
+}

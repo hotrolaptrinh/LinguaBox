@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 101 - Financial Technology",
+  "words": [
+    {
+      "word": "digital wallet",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈwɒlɪt/",
+      "meaning": "ví điện tử"
+    },
+    {
+      "word": "peer-to-peer lending",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌpɪə tə ˌpɪə ˈlendɪŋ/",
+      "meaning": "cho vay ngang hàng"
+    },
+    {
+      "word": "open banking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈəʊpən ˈbæŋkɪŋ/",
+      "meaning": "ngân hàng mở"
+    },
+    {
+      "word": "know your customer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/nəʊ jɔː ˈkʌstəmə/",
+      "meaning": "hiểu khách hàng"
+    },
+    {
+      "word": "customer due diligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə djuː ˈdɪlɪdʒəns/",
+      "meaning": "thẩm định khách hàng"
+    },
+    {
+      "word": "payment gateway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪmənt ˈɡeɪtweɪ/",
+      "meaning": "cổng thanh toán"
+    },
+    {
+      "word": "tokenization",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌtəʊkənaɪˈzeɪʃən/",
+      "meaning": "mã hóa token"
+    },
+    {
+      "word": "application programming interface",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌæplɪˈkeɪʃən ˈprəʊɡræmɪŋ ˈɪntəfeɪs/",
+      "meaning": "giao diện lập trình ứng dụng"
+    },
+    {
+      "word": "instant settlement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnstənt ˈsetlmənt/",
+      "meaning": "quyết toán tức thì"
+    },
+    {
+      "word": "regulatory sandbox",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjələtəri ˈsændbɒks/",
+      "meaning": "môi trường thử nghiệm quản lý"
+    },
+    {
+      "word": "digital onboarding",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈɒnbɔːdɪŋ/",
+      "meaning": "hòa nhập số"
+    },
+    {
+      "word": "biometric authentication",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌbaɪəʊˈmetrɪk ɔːˌθentɪˈkeɪʃən/",
+      "meaning": "xác thực sinh trắc học"
+    },
+    {
+      "word": "fraud detection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/frɔːd dɪˈtekʃən/",
+      "meaning": "phát hiện gian lận"
+    },
+    {
+      "word": "credit scoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkredɪt ˈskɔːrɪŋ/",
+      "meaning": "chấm điểm tín dụng"
+    },
+    {
+      "word": "real-time analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrɪəl taɪm ˌænəˈlɪtɪks/",
+      "meaning": "phân tích thời gian thực"
+    },
+    {
+      "word": "embedded finance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪmˈbedɪd ˈfaɪnæns/",
+      "meaning": "tài chính nhúng"
+    },
+    {
+      "word": "digital lending",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈlendɪŋ/",
+      "meaning": "cho vay số"
+    },
+    {
+      "word": "transaction monitoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænˈzækʃən ˈmɒnɪtərɪŋ/",
+      "meaning": "giám sát giao dịch"
+    },
+    {
+      "word": "risk engine",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈendʒɪn/",
+      "meaning": "bộ máy phân tích rủi ro"
+    },
+    {
+      "word": "fintech partnership",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfɪntek ˈpɑːtnəʃɪp/",
+      "meaning": "quan hệ hợp tác fintech"
+    },
+    {
+      "word": "application fraud",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌæplɪˈkeɪʃən frɔːd/",
+      "meaning": "gian lận hồ sơ"
+    },
+    {
+      "word": "compliance engine",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˈendʒɪn/",
+      "meaning": "công cụ tuân thủ"
+    },
+    {
+      "word": "payment orchestration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪmənt ˌɔːkɪˈstreɪʃən/",
+      "meaning": "điều phối thanh toán"
+    },
+    {
+      "word": "smart contract",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/smɑːt ˈkɒntrækt/",
+      "meaning": "hợp đồng thông minh"
+    },
+    {
+      "word": "digital asset custody",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˈæset ˈkʌstədi/",
+      "meaning": "lưu ký tài sản số"
+    }
+  ]
+}

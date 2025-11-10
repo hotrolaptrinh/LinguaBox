@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 89 - Smart City & Urban Tech",
+  "words": [
+    {
+      "word": "urban mobility plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɜːbən məʊˈbɪləti plæn/",
+      "meaning": "kế hoạch giao thông đô thị"
+    },
+    {
+      "word": "intelligent transport system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈtelɪdʒənt ˈtrænspɔːt ˈsɪstəm/",
+      "meaning": "hệ thống giao thông thông minh"
+    },
+    {
+      "word": "traffic sensor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtræfɪk ˈsensə/",
+      "meaning": "cảm biến giao thông"
+    },
+    {
+      "word": "adaptive signal control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈdæptɪv ˈsɪɡnəl kənˈtrəʊl/",
+      "meaning": "điều khiển đèn tín hiệu thích ứng"
+    },
+    {
+      "word": "congestion pricing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈdʒestʃən ˈpraɪsɪŋ/",
+      "meaning": "thu phí ùn tắc"
+    },
+    {
+      "word": "shared micromobility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ʃeəd ˌmaɪkrəʊməʊˈbɪləti/",
+      "meaning": "phương tiện vi mô dùng chung"
+    },
+    {
+      "word": "electric vehicle charging",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈlektrɪk ˈviːəkl ˈtʃɑːdʒɪŋ/",
+      "meaning": "sạc xe điện"
+    },
+    {
+      "word": "energy management platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ˈmænɪdʒmənt ˈplætfɔːm/",
+      "meaning": "nền tảng quản lý năng lượng"
+    },
+    {
+      "word": "building automation system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪldɪŋ ˌɔːtəˈmeɪʃn ˈsɪstəm/",
+      "meaning": "hệ thống tự động tòa nhà"
+    },
+    {
+      "word": "smart meter",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/smɑːt ˈmiːtə/",
+      "meaning": "đồng hồ thông minh"
+    },
+    {
+      "word": "demand response",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd rɪˈspɒns/",
+      "meaning": "điều chỉnh nhu cầu"
+    },
+    {
+      "word": "public wi-fi network",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpʌblɪk ˈwaɪ faɪ ˈnetwɜːk/",
+      "meaning": "mạng wifi công cộng"
+    },
+    {
+      "word": "data governance policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈɡʌvənəns ˈpɒləsi/",
+      "meaning": "chính sách quản trị dữ liệu"
+    },
+    {
+      "word": "urban data platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɜːbən ˈdeɪtə ˈplætfɔːm/",
+      "meaning": "nền tảng dữ liệu đô thị"
+    },
+    {
+      "word": "geospatial analytics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌdʒiːəʊˈspeɪʃl ˌænəˈlɪtɪks/",
+      "meaning": "phân tích không gian"
+    },
+    {
+      "word": "citizen engagement app",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɪtɪzn ɪnˈɡeɪdʒmənt æp/",
+      "meaning": "ứng dụng tương tác người dân"
+    },
+    {
+      "word": "participatory budgeting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɑːˈtɪsɪpətəri ˈbʌdʒɪtɪŋ/",
+      "meaning": "lập ngân sách cộng đồng"
+    },
+    {
+      "word": "open data portal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈəʊpən ˈdeɪtə ˈpɔːtl/",
+      "meaning": "cổng dữ liệu mở"
+    },
+    {
+      "word": "privacy impact assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɪvəsi ˈɪmpækt əˈsesmənt/",
+      "meaning": "đánh giá tác động quyền riêng tư"
+    },
+    {
+      "word": "cyber-physical security",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsaɪbə ˈfɪzɪkl sɪˈkjʊərəti/",
+      "meaning": "an ninh không gian mạng-vật lý"
+    },
+    {
+      "word": "resilient infrastructure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈzɪliənt ˈɪnfrəstrʌktʃə/",
+      "meaning": "hạ tầng bền bỉ"
+    },
+    {
+      "word": "urban resilience hub",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɜːbən rɪˈzɪliəns hʌb/",
+      "meaning": "trung tâm chống chịu đô thị"
+    },
+    {
+      "word": "climate-responsive design",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklaɪmət rɪˈspɒnsɪv dɪˈzaɪn/",
+      "meaning": "thiết kế thích ứng khí hậu"
+    },
+    {
+      "word": "digital twin city",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl twɪn ˈsɪti/",
+      "meaning": "đô thị song sinh số"
+    },
+    {
+      "word": "performance dashboard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəˈfɔːməns ˈdæʃbɔːd/",
+      "meaning": "bảng điều khiển hiệu suất"
+    }
+  ]
+}

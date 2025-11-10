@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 87 - Supply Chain Resilience",
+  "words": [
+    {
+      "word": "network mapping",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnetwɜːk ˈmæpɪŋ/",
+      "meaning": "lập sơ đồ mạng lưới"
+    },
+    {
+      "word": "supplier diversification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪə daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "meaning": "đa dạng hóa nhà cung cấp"
+    },
+    {
+      "word": "sourcing strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɔːsɪŋ ˈstrætədʒi/",
+      "meaning": "chiến lược thu mua"
+    },
+    {
+      "word": "lead time analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːd taɪm əˈnæləsɪs/",
+      "meaning": "phân tích thời gian giao hàng"
+    },
+    {
+      "word": "buffer inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbʌfə ˈɪnvəntri/",
+      "meaning": "tồn kho đệm"
+    },
+    {
+      "word": "demand sensing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˈsensɪŋ/",
+      "meaning": "nhận diện nhu cầu"
+    },
+    {
+      "word": "scenario planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈnɑːriəʊ ˈplænɪŋ/",
+      "meaning": "lập kế hoạch tình huống"
+    },
+    {
+      "word": "risk heatmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈhiːtmæp/",
+      "meaning": "bản đồ nhiệt rủi ro"
+    },
+    {
+      "word": "supplier scorecard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪə ˈskɔːkɑːd/",
+      "meaning": "thẻ điểm nhà cung cấp"
+    },
+    {
+      "word": "logistics control tower",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ləˈdʒɪstɪks kənˈtrəʊl ˈtaʊə/",
+      "meaning": "trung tâm điều hành logistics"
+    },
+    {
+      "word": "freight consolidation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/freɪt kənˌsɒlɪˈdeɪʃn/",
+      "meaning": "gom hàng vận tải"
+    },
+    {
+      "word": "carrier contract",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkæriə ˈkɒntrækt/",
+      "meaning": "hợp đồng vận chuyển"
+    },
+    {
+      "word": "intermodal shipment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪntəˈməʊdl ˈʃɪpmənt/",
+      "meaning": "vận chuyển đa phương thức"
+    },
+    {
+      "word": "port congestion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːt kənˈdʒestʃən/",
+      "meaning": "ùn tắc cảng"
+    },
+    {
+      "word": "customs clearance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ˈklɪərəns/",
+      "meaning": "thông quan"
+    },
+    {
+      "word": "bonded warehouse",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɒndɪd ˈweəhaʊs/",
+      "meaning": "kho ngoại quan"
+    },
+    {
+      "word": "reverse logistics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈvɜːs ləˈdʒɪstɪks/",
+      "meaning": "chuỗi logistics ngược"
+    },
+    {
+      "word": "contingency routing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtɪndʒənsi ˈruːtɪŋ/",
+      "meaning": "định tuyến dự phòng"
+    },
+    {
+      "word": "critical spare parts",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkrɪtɪkl speə pɑːts/",
+      "meaning": "phụ tùng thiết yếu"
+    },
+    {
+      "word": "visibility platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvɪzəˈbɪləti ˈplætfɔːm/",
+      "meaning": "nền tảng hiển thị"
+    },
+    {
+      "word": "predictive ETA",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˌiː tiː ˈeɪ/",
+      "meaning": "dự đoán thời gian đến"
+    },
+    {
+      "word": "exception management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈsepʃn ˈmænɪdʒmənt/",
+      "meaning": "quản lý ngoại lệ"
+    },
+    {
+      "word": "replenishment cycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈplenɪʃmənt ˈsaɪkl/",
+      "meaning": "chu kỳ bổ sung"
+    },
+    {
+      "word": "performance benchmark",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəˈfɔːməns ˈbentʃmɑːk/",
+      "meaning": "chuẩn hiệu suất"
+    },
+    {
+      "word": "recovery protocol",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈkʌvəri ˈprəʊtəkɒl/",
+      "meaning": "quy trình phục hồi"
+    }
+  ]
+}

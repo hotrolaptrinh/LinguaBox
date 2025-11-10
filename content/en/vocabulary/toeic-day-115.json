@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 115 - Cybersecurity Incident Response",
+  "words": [
+    {
+      "word": "incident triage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt ˈtriːɑːʒ/",
+      "meaning": "phân loại sự cố"
+    },
+    {
+      "word": "security operations center",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˌɒpəˈreɪʃənz ˈsentə/",
+      "meaning": "trung tâm điều hành an ninh"
+    },
+    {
+      "word": "alert fatigue",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈlɜːt fəˈtiːɡ/",
+      "meaning": "mệt mỏi vì cảnh báo"
+    },
+    {
+      "word": "threat intelligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/θret ɪnˈtelɪdʒəns/",
+      "meaning": "tình báo mối đe dọa"
+    },
+    {
+      "word": "forensic imaging",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fəˈrensɪk ˈɪmɪdʒɪŋ/",
+      "meaning": "sao lưu pháp chứng"
+    },
+    {
+      "word": "containment strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈteɪnmənt ˈstrætədʒi/",
+      "meaning": "chiến lược cô lập"
+    },
+    {
+      "word": "eradication plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˌrædɪˈkeɪʃən plæn/",
+      "meaning": "kế hoạch loại bỏ"
+    },
+    {
+      "word": "incident ticket",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt ˈtɪkɪt/",
+      "meaning": "phiếu sự cố"
+    },
+    {
+      "word": "malware analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmælweə əˈnæləsɪs/",
+      "meaning": "phân tích phần mềm độc hại"
+    },
+    {
+      "word": "host isolation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/həʊst ˌaɪsəˈleɪʃən/",
+      "meaning": "cách ly máy chủ"
+    },
+    {
+      "word": "log preservation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɒɡ ˌprezəˈveɪʃən/",
+      "meaning": "bảo tồn nhật ký"
+    },
+    {
+      "word": "incident commander",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt kəˈmɑːndə/",
+      "meaning": "chỉ huy sự cố"
+    },
+    {
+      "word": "tabletop exercise",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈteɪbəltɒp ˈeksəsaɪz/",
+      "meaning": "diễn tập mô phỏng"
+    },
+    {
+      "word": "root cause analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz əˈnæləsɪs/",
+      "meaning": "phân tích nguyên nhân gốc"
+    },
+    {
+      "word": "breach notification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/briːtʃ ˌnəʊtɪfɪˈkeɪʃən/",
+      "meaning": "thông báo vi phạm"
+    },
+    {
+      "word": "threat hunting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/θret ˈhʌntɪŋ/",
+      "meaning": "săn tìm mối đe dọa"
+    },
+    {
+      "word": "incident containment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt kənˈteɪnmənt/",
+      "meaning": "kiềm chế sự cố"
+    },
+    {
+      "word": "response timeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈspɒns ˈtaɪmlaɪn/",
+      "meaning": "dòng thời gian phản ứng"
+    },
+    {
+      "word": "compromise assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒmprəmaɪz əˈsesmənt/",
+      "meaning": "đánh giá xâm nhập"
+    },
+    {
+      "word": "lessons learned",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlesənz lɜːnd/",
+      "meaning": "bài học rút ra"
+    },
+    {
+      "word": "containment checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈteɪnmənt ˈtʃeklɪst/",
+      "meaning": "danh sách kiểm soát"
+    },
+    {
+      "word": "post-incident report",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəʊst ˈɪnsɪdənt rɪˈpɔːt/",
+      "meaning": "báo cáo sau sự cố"
+    },
+    {
+      "word": "communication bridge",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˌmjuːnɪˈkeɪʃən brɪdʒ/",
+      "meaning": "kênh liên lạc"
+    },
+    {
+      "word": "response playbook",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈspɒns ˈpleɪbʊk/",
+      "meaning": "sổ tay ứng phó"
+    },
+    {
+      "word": "incident classification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnsɪdənt ˌklæsɪfɪˈkeɪʃən/",
+      "meaning": "phân loại sự cố"
+    }
+  ]
+}

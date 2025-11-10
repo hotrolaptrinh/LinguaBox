@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 109 - Manufacturing Automation",
+  "words": [
+    {
+      "word": "industrial robot",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈdʌstriəl ˈrəʊbɒt/",
+      "meaning": "robot công nghiệp"
+    },
+    {
+      "word": "robotic arm",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rəʊˈbɒtɪk ɑːm/",
+      "meaning": "cánh tay robot"
+    },
+    {
+      "word": "cobot integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkəʊbɒt ˌɪntɪˈɡreɪʃən/",
+      "meaning": "tích hợp robot cộng tác"
+    },
+    {
+      "word": "automation cell",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɔːtəˈmeɪʃən sel/",
+      "meaning": "cụm tự động"
+    },
+    {
+      "word": "programmable logic controller",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəʊˈɡræməbl ˈlɒdʒɪk kənˈtrəʊlə/",
+      "meaning": "bộ điều khiển lập trình"
+    },
+    {
+      "word": "machine vision",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈʃiːn ˈvɪʒn/",
+      "meaning": "thị giác máy"
+    },
+    {
+      "word": "predictive maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˈmeɪntənəns/",
+      "meaning": "bảo trì dự đoán"
+    },
+    {
+      "word": "cycle time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsaɪkl taɪm/",
+      "meaning": "thời gian chu kỳ"
+    },
+    {
+      "word": "throughput",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈθruːpʊt/",
+      "meaning": "tốc độ sản xuất"
+    },
+    {
+      "word": "line balancing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/laɪn ˈbælənsɪŋ/",
+      "meaning": "cân bằng dây chuyền"
+    },
+    {
+      "word": "production scheduling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃən ˈʃedjuːlɪŋ/",
+      "meaning": "lập lịch sản xuất"
+    },
+    {
+      "word": "overall equipment effectiveness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈəʊvərɔːl ɪˈkwɪpmənt ɪˈfektɪvnəs/",
+      "meaning": "hiệu suất thiết bị tổng thể"
+    },
+    {
+      "word": "digital twin",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl twɪn/",
+      "meaning": "bản sao số"
+    },
+    {
+      "word": "robot calibration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrəʊbɒt ˌkælɪˈbreɪʃən/",
+      "meaning": "hiệu chuẩn robot"
+    },
+    {
+      "word": "safety interlock",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪfti ˈɪntəlɒk/",
+      "meaning": "khóa an toàn"
+    },
+    {
+      "word": "production cell",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃən sel/",
+      "meaning": "ô sản xuất"
+    },
+    {
+      "word": "human-machine interface",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈhjuːmən məˈʃiːn ˈɪntəfeɪs/",
+      "meaning": "giao diện người-máy"
+    },
+    {
+      "word": "automation roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɔːtəˈmeɪʃən ˈrəʊdmæp/",
+      "meaning": "lộ trình tự động hóa"
+    },
+    {
+      "word": "process optimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌɒptɪmaɪˈzeɪʃən/",
+      "meaning": "tối ưu quy trình"
+    },
+    {
+      "word": "machine uptime",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈʃiːn ˈʌptaɪm/",
+      "meaning": "thời gian chạy máy"
+    },
+    {
+      "word": "fault detection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɔːlt dɪˈtekʃən/",
+      "meaning": "phát hiện lỗi"
+    },
+    {
+      "word": "PLC programming",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/piː el siː ˈprəʊɡræmɪŋ/",
+      "meaning": "lập trình PLC"
+    },
+    {
+      "word": "robot safety fence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrəʊbɒt ˈseɪfti fens/",
+      "meaning": "hàng rào an toàn robot"
+    },
+    {
+      "word": "automation retrofit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɔːtəˈmeɪʃən ˈretrəfɪt/",
+      "meaning": "nâng cấp tự động hóa"
+    },
+    {
+      "word": "operator training",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒpəreɪtə ˈtreɪnɪŋ/",
+      "meaning": "đào tạo vận hành"
+    }
+  ]
+}

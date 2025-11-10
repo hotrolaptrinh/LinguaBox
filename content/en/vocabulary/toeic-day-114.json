@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 114 - Healthcare Administration",
+  "words": [
+    {
+      "word": "care coordination",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/keə kəˌɔːdɪˈneɪʃən/",
+      "meaning": "điều phối chăm sóc"
+    },
+    {
+      "word": "patient intake",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt ˈɪnteɪk/",
+      "meaning": "tiếp nhận bệnh nhân"
+    },
+    {
+      "word": "admission workflow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ədˈmɪʃən ˈwɜːkfləʊ/",
+      "meaning": "quy trình nhập viện"
+    },
+    {
+      "word": "bed occupancy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bed ˈɒkjʊpənsi/",
+      "meaning": "tỷ lệ sử dụng giường"
+    },
+    {
+      "word": "clinical pathway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈpɑːθweɪ/",
+      "meaning": "lộ trình lâm sàng"
+    },
+    {
+      "word": "length of stay",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/leŋθ əv steɪ/",
+      "meaning": "thời gian nằm viện"
+    },
+    {
+      "word": "patient discharge",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt dɪsˈtʃɑːdʒ/",
+      "meaning": "xuất viện"
+    },
+    {
+      "word": "utilization review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌjuːtɪlaɪˈzeɪʃən rɪˈvjuː/",
+      "meaning": "đánh giá sử dụng dịch vụ"
+    },
+    {
+      "word": "clinical governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈɡʌvənəns/",
+      "meaning": "quản trị lâm sàng"
+    },
+    {
+      "word": "patient satisfaction",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt ˌsætɪsˈfækʃən/",
+      "meaning": "sự hài lòng của bệnh nhân"
+    },
+    {
+      "word": "staffing matrix",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstɑːfɪŋ ˈmeɪtrɪks/",
+      "meaning": "ma trận phân công nhân sự"
+    },
+    {
+      "word": "quality rounding",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈraʊndɪŋ/",
+      "meaning": "đi kiểm tra chất lượng"
+    },
+    {
+      "word": "appointment scheduling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈpɔɪntmənt ˈʃedjuːlɪŋ/",
+      "meaning": "lên lịch hẹn"
+    },
+    {
+      "word": "care escalation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/keə ˌeskəˈleɪʃən/",
+      "meaning": "chuyển cấp chăm sóc"
+    },
+    {
+      "word": "clinical handoff",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈhændɒf/",
+      "meaning": "bàn giao điều trị"
+    },
+    {
+      "word": "patient portal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt ˈpɔːtl/",
+      "meaning": "cổng thông tin bệnh nhân"
+    },
+    {
+      "word": "billing reconciliation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪlɪŋ ˌrekənsɪliˈeɪʃən/",
+      "meaning": "đối soát thanh toán"
+    },
+    {
+      "word": "care plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/keə plæn/",
+      "meaning": "kế hoạch chăm sóc"
+    },
+    {
+      "word": "patient navigator",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt ˈnævɪɡeɪtə/",
+      "meaning": "người hướng dẫn bệnh nhân"
+    },
+    {
+      "word": "facility operations",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fəˈsɪləti ˌɒpəˈreɪʃənz/",
+      "meaning": "vận hành cơ sở"
+    },
+    {
+      "word": "infection control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈfekʃən kənˈtrəʊl/",
+      "meaning": "kiểm soát nhiễm khuẩn"
+    },
+    {
+      "word": "rounding checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈraʊndɪŋ ˈtʃeklɪst/",
+      "meaning": "danh sách kiểm tra khi đi buồng"
+    },
+    {
+      "word": "clinical throughput",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklɪnɪkl ˈθruːpʊt/",
+      "meaning": "công suất khám chữa"
+    },
+    {
+      "word": "patient flow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪʃnt fləʊ/",
+      "meaning": "luồng bệnh nhân"
+    },
+    {
+      "word": "care transition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/keə trænˈzɪʃən/",
+      "meaning": "chuyển tiếp chăm sóc"
+    }
+  ]
+}

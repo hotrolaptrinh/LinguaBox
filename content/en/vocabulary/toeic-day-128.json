@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 128 - Knowledge Management",
+  "words": [
+    {
+      "word": "knowledge repository",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ rɪˈpɒzɪtəri/",
+      "meaning": "kho tri thức"
+    },
+    {
+      "word": "knowledge base",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ beɪs/",
+      "meaning": "cơ sở tri thức"
+    },
+    {
+      "word": "content governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent ˈɡʌvənəns/",
+      "meaning": "quản trị nội dung"
+    },
+    {
+      "word": "knowledge article",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ ˈɑːtɪkl/",
+      "meaning": "bài viết tri thức"
+    },
+    {
+      "word": "content lifecycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent ˈlaɪsaɪkl/",
+      "meaning": "vòng đời nội dung"
+    },
+    {
+      "word": "version control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvɜːʃn kənˈtrəʊl/",
+      "meaning": "kiểm soát phiên bản"
+    },
+    {
+      "word": "taxonomy management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tækˈsɒnəmi ˈmænɪdʒmənt/",
+      "meaning": "quản lý phân loại"
+    },
+    {
+      "word": "metadata tagging",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmetədeɪtə ˈtæɡɪŋ/",
+      "meaning": "gắn thẻ siêu dữ liệu"
+    },
+    {
+      "word": "knowledge sharing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ ˈʃeərɪŋ/",
+      "meaning": "chia sẻ tri thức"
+    },
+    {
+      "word": "best practice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/best ˈpræktɪs/",
+      "meaning": "thực tiễn tốt nhất"
+    },
+    {
+      "word": "learning community",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɜːnɪŋ kəˈmjuːnəti/",
+      "meaning": "cộng đồng học tập"
+    },
+    {
+      "word": "knowledge steward",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ ˈstjuːəd/",
+      "meaning": "người quản tri thức"
+    },
+    {
+      "word": "content curation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent kjʊəˈreɪʃən/",
+      "meaning": "chọn lọc nội dung"
+    },
+    {
+      "word": "expert directory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈekspɜːt dəˈrektəri/",
+      "meaning": "danh bạ chuyên gia"
+    },
+    {
+      "word": "knowledge portal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ ˈpɔːtl/",
+      "meaning": "cổng tri thức"
+    },
+    {
+      "word": "learning journey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɜːnɪŋ ˈdʒɜːni/",
+      "meaning": "hành trình học tập"
+    },
+    {
+      "word": "knowledge audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ ˈɔːdɪt/",
+      "meaning": "đánh giá tri thức"
+    },
+    {
+      "word": "content refresh",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent rɪˈfreʃ/",
+      "meaning": "làm mới nội dung"
+    },
+    {
+      "word": "reuse rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/riːˈjuːz reɪt/",
+      "meaning": "tỷ lệ tái sử dụng"
+    },
+    {
+      "word": "knowledge adoption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ əˈdɒpʃən/",
+      "meaning": "mức độ sử dụng tri thức"
+    },
+    {
+      "word": "content workflow",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒntent ˈwɜːkfləʊ/",
+      "meaning": "quy trình nội dung"
+    },
+    {
+      "word": "knowledge base article",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ beɪs ˈɑːtɪkl/",
+      "meaning": "bài viết trong kho tri thức"
+    },
+    {
+      "word": "search relevance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɜːtʃ ˈreləvəns/",
+      "meaning": "độ liên quan tìm kiếm"
+    },
+    {
+      "word": "community of practice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈmjuːnəti əv ˈpræktɪs/",
+      "meaning": "cộng đồng thực hành"
+    },
+    {
+      "word": "knowledge retention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ rɪˈtenʃən/",
+      "meaning": "lưu giữ tri thức"
+    }
+  ]
+}

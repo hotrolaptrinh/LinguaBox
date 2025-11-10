@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 122 - Venture Capital Funding",
+  "words": [
+    {
+      "word": "term sheet",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tɜːm ʃiːt/",
+      "meaning": "bảng điều khoản"
+    },
+    {
+      "word": "valuation cap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌvæljuˈeɪʃən kæp/",
+      "meaning": "giới hạn định giá"
+    },
+    {
+      "word": "cap table",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kæp ˈteɪbl/",
+      "meaning": "bảng vốn hóa"
+    },
+    {
+      "word": "dilution",
+      "partOfSpeech": "n.",
+      "ipa": "/daɪˈluːʃən/",
+      "meaning": "pha loãng"
+    },
+    {
+      "word": "preferred shares",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈfɜːd ʃeəz/",
+      "meaning": "cổ phần ưu đãi"
+    },
+    {
+      "word": "liquidation preference",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌlɪkwɪˈdeɪʃən ˈprefərəns/",
+      "meaning": "quyền ưu tiên thanh lý"
+    },
+    {
+      "word": "pro rata rights",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prə ˈrɑːtə raɪts/",
+      "meaning": "quyền mua theo tỷ lệ"
+    },
+    {
+      "word": "investment committee",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestmənt kəˈmɪti/",
+      "meaning": "ủy ban đầu tư"
+    },
+    {
+      "word": "funding round",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfʌndɪŋ raʊnd/",
+      "meaning": "vòng gọi vốn"
+    },
+    {
+      "word": "bridge financing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/brɪdʒ faɪˈnænsɪŋ/",
+      "meaning": "tài trợ bắc cầu"
+    },
+    {
+      "word": "convertible note",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːtəbl nəʊt/",
+      "meaning": "trái phiếu chuyển đổi"
+    },
+    {
+      "word": "warrant coverage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈwɒrənt ˈkʌvərɪdʒ/",
+      "meaning": "quyền mua kèm"
+    },
+    {
+      "word": "board observer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bɔːd əbˈzɜːvə/",
+      "meaning": "người quan sát hội đồng"
+    },
+    {
+      "word": "post-money valuation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəʊst ˈmʌni ˌvæljuˈeɪʃən/",
+      "meaning": "định giá sau đầu tư"
+    },
+    {
+      "word": "follow-on investment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌfɒləʊ ɒn ɪnˈvestmənt/",
+      "meaning": "đầu tư bổ sung"
+    },
+    {
+      "word": "investor update",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestə ˈʌpdeɪt/",
+      "meaning": "bản cập nhật nhà đầu tư"
+    },
+    {
+      "word": "founder vesting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfaʊndə ˈvestɪŋ/",
+      "meaning": "lịch phân quyền của sáng lập"
+    },
+    {
+      "word": "exit strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈeɡzɪt ˈstrætədʒi/",
+      "meaning": "chiến lược thoái vốn"
+    },
+    {
+      "word": "drag-along right",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdræɡ əˈlɒŋ raɪt/",
+      "meaning": "quyền kéo theo"
+    },
+    {
+      "word": "co-investment",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌkəʊ ɪnˈvestmənt/",
+      "meaning": "đồng đầu tư"
+    },
+    {
+      "word": "fund lifecycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fʌnd ˈlaɪsaɪkl/",
+      "meaning": "vòng đời quỹ"
+    },
+    {
+      "word": "portfolio support",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːtˈfəʊliəʊ səˈpɔːt/",
+      "meaning": "hỗ trợ danh mục"
+    },
+    {
+      "word": "investment thesis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestmənt ˈθiːsɪs/",
+      "meaning": "luận điểm đầu tư"
+    },
+    {
+      "word": "due diligence checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/djuː ˈdɪlɪdʒəns ˈtʃeklɪst/",
+      "meaning": "danh sách thẩm định"
+    },
+    {
+      "word": "portfolio review",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːtˈfəʊliəʊ rɪˈvjuː/",
+      "meaning": "đánh giá danh mục"
+    }
+  ]
+}
